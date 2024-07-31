@@ -1,67 +1,6 @@
 #EXTM3U
 #EXTM3U billed-msg="BY FLYNGDUTCHMAN * NOT FOR SALE * THIS PLAYLIST IS FREE"
-#EXTINF:-1 group-title="NASIONAL" tvg-name="MNC TV" ,MNC TV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|user-agent=android-R+&referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="NASIONAL" tvg-name="INDOSIAR" ,INDOSIAR
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722441758~acl=/drm/dash/*~id=164396008~hmac=4cae107b5c9866a8fb661c16c5a982af30f6fb2ca265b59b6dd28ac99dd47a3b|license_type=clearkey&license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36&referrer=https://www.vidio.com/
-#EXTINF:-1 group-title="NASIONAL" tvg-name="RCTI" ,RCTI
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+&referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="NASIONAL" tvg-name="SCTV" ,SCTV
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722094218~acl=/drm/dash/*~id=164396008~hmac=552ba21efcedc47b3cd1d4e452435538f23b1dd94d0612db52e797b4c95b8a63|license_type=clearkey&license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36&referrer=https://www.vidio.com/
-#EXTINF:-1 group-title="NASIONAL" tvg-name="GTV" ,GTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+&referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co/k3S01Fh/transtv.png" tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" , TRANS TV
-https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="NASIONAL" tvg-name="TRANS 7" ,TRANS 7 HD
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1 group-title="NASIONAL" tvg-id="ANTV - [Channel 115].id" ,ANTV
-https://testfunctionlive.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi&referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="NASIONAL" tvg-name="RTV" ,RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/2560px-VTV_Indonesia_White_2023.svg.png" tvg-id="vtv.id" ,VTV
-https://flv.intechmedia.net/live/ch107.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" ,MOJI
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/480p/17599_stream.mpd?hdnts=exp=1721838216~acl=/drm/dash/480p/*~id=164396008~hmac=42351c8df8dbf10403e6cd98b12dac724d083a40c361d0da3faaa11adefd3638|license_type=clearkey&license_key=https://astvstreamingtv.my.id/api/ck/8dbb275f903119e2ce2d44a52de1bb2f:a9926e960c2aa6a639bb3748d67c10aa,5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36&referrer=https://www.vidio.com/
-#EXTINF:-1 group-title="NASIONAL" tvg-name="NET TV" ,NET TV
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd|license_type=clearkey&license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5&referrer=https://www.indihometv.com/
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png" ,JTV
-https://liveaneviadev.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" , TV ONE
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="NASIONAL" tvg-name="iNEWS" ,iNEWS
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+&referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co/pbvprNQ/sindonewstv.png" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-name="SINDONEWS" , SINDONEWS TV
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co/G9NY1P4/metrotv.png" tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" , METRO TV
-https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="NASIONAL" tvg-name="KOMPAS TV" ,KOMPAS TV
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL" tvg-name="CNN INDONESIA" ,CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1 group-title="NASIONAL" tvg-name="CNBC INDONESIA" ,CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 group-title="NASIONAL" ,Liputan 6
-https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" ,Magna Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg" , BN Channel
-http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg" ,BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL" tvg-name="BERITA SATU" ,BERITA SATU
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
-#EXTINF:-1 group-title="NASIONAL" tvg-name="TVRI" ,TVRI
-http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL" tvg-name="JAK TV" ,JAK TV
-https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/ag3DlGE4zs35O8ozWQWV1XTunvA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" ,Elshinta TV
-https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co/TBGpbpn/garudatv.png" tvg-name="GARUDA TV" , GARUDA TV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co/nr4HQFm/dunialain.png" , DUNIA LAIN
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd|license_type=clearkey&license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d&referrer=https://www.indihometv.com/
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co/qnM6PNm/oktv.png" tvg-id="OK TV - [Channel 95].id" tvg-name="OK TV" , OK TV
-https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
+######### INDONESIA #########
 
 ######### CUBMU #########
 
@@ -615,8 +554,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+&refe
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="NASIONAL 2" tvg-name="TRANS 7" ,TRANS 7 HD
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1 group-title="NASIONAL 2" tvg-id="ANTV - [Channel 115].id" ,ANTV
-https://testfunctionlive.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi&referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="NASIONAL 2" tvg-name="RTV" ,RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="NASIONAL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/2560px-VTV_Indonesia_White_2023.svg.png" tvg-id="vtv.id" ,VTV
