@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U billed-msg="BY FLYNGDUTCHMAN * NOT FOR SALE * THIS PLAYLIST IS FREE"
+
 ######### NASIONAL 1 #########
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" tvg-id="TVRINasional.id" ,TVRI Nasional
@@ -94,7 +95,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd|user-agent
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 group-title="INDONESIA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" , Indosiar (Digital)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 group-title="INDONESIA 2" tvg-logo="https://i.imgur.com/16mTjgh.png" tvg-id="indosiar.id" , Indosiar
+#EXTINF:-1 group-title="INDONESIA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" tvg-id="indosiar.id" , Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8|license_type=com.widevine.alpha&license_key=https://cubum.iptvgo.workers.dev
 #EXTINF:-1 group-title="INDONESIA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" , INDOSIAR (Indi)
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib|user-agent=mozilla/89
