@@ -31,8 +31,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd|user-agent=
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" tvg-id="ANTV.id" ,ANTV
 https://flv.intechmedia.net/live/ch108.m3u8|user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://thumbor.prod.vidiocdn.com/coEepqTD1ZSNFFsnzigGRxy09qM=/640x360/filters:quality(75)/vidio-web-prod-video/uploads/video/image/8297885/kabar-dunia-31-juli-2024-8e3b6b.jpg" tvg-id="tvOne.id" ,tvOne
-https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/coEepqTD1ZSNFFsnzigGRxy09qM=/640x360/filters:quality(75)/vidio-web-prod-video/uploads/video/image/8297885/kabar-dunia-31-juli-2024-8e3b6b.jpg" group-title="INDONESIA 1",TV ONE
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch109.m3u8
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://thumbor.prod.vidiocdn.com/coEepqTD1ZSNFFsnzigGRxy09qM=/640x360/filters:quality(75)/vidio-web-prod-video/uploads/video/image/8297885/kabar-dunia-31-juli-2024-8e3b6b.jpg" tvg-id="tvOne.id" ,tvOne HD
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://id.m.wikipedia.org/wiki/VTV_(Indonesia)#/media/Berkas%3AVTV_Indonesia_2023.svg" tvg-id="vtv.id" ,VTV
@@ -59,13 +60,9 @@ https://flv.intechmedia.net/live/ch112.m3u8|user-agent=YouTV/1.7.16-prod.release
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8|user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://media-origin.kompas.tv/frontend/mobile/images/365x100web.png" tvg-id="KompasTV.id" ,Kompas TV
 https://yt.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://www.netmedia.co.id/mobile/images/logo_white.png" tvg-id="Net.id" ,NET HD
-https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0&user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)&referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.netmedia.co.id/mobile/images/logo_white.png" group-title="youtv",NET TV
+#EXTINF:-1 tvg-logo="https://www.netmedia.co.id/mobile/images/logo_white.png" group-title="INDONESIA 1",NET TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch114.m3u8
-#EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://www.netmedia.co.id/mobile/images/logo_white.png" tvg-id="Net.id" ,NET
-https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1200px-Rajawali_Televisi_abu-abu.svg.png" tvg-id="RajawaliTV.id" ,RTV
 https://flv.intechmedia.net/live/ch115.m3u8|user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://id.m.wikipedia.org/wiki/Nusantara_TV#/media/Berkas%3ANusantara_TV_Logo.svg" tvg-id="nusantaratv.id" ,Nusantara TV
