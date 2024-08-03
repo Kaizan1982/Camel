@@ -88,6 +88,18 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png" tvg-id="Maxstream.id" ,MAXSTREAM
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://seatoday.com/images/20231108194328_logo_11.png" tvg-id="seatoday.id" ,SEA TODAY
+#EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/1280px-VTV_Indonesia_2023.svg.png" ,VTV HD
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+#EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/antv.png?raw=true" ,ANTV HD
+https://flv.intechmedia.net/live/ch108.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+#EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" ,METRO TV
+https://flv.intechmedia.net/live/ch110.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+#EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" ,MAGNA TV
+https://flv.intechmedia.net/live/ch111.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+#EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" ,RTV
+https://flv.intechmedia.net/live/ch115.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+
+
 
 ######### INDONESIA 2 #########
 
