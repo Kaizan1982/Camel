@@ -61,6 +61,9 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8|user-agent=MNCNow
 https://yt.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://www.netmedia.co.id/mobile/images/logo_white.png" tvg-id="Net.id" ,NET HD
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0&user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)&referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.netmedia.co.id/mobile/images/logo_white.png" group-title="youtv",NET TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch114.m3u8
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://www.netmedia.co.id/mobile/images/logo_white.png" tvg-id="Net.id" ,NET
 https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="INDONESIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1200px-Rajawali_Televisi_abu-abu.svg.png" tvg-id="RajawaliTV.id" ,RTV
