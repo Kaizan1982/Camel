@@ -19,13 +19,13 @@
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-name="ANTV" , ANTV 1
+#EXTINF:-1 group-title=" NASIONAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-name="ANTV" , ANTV 1
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 2
+#EXTINF:-1 group-title=" NASIONAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 2
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 3
+#EXTINF:-1 group-title=" NASIONAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 3
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
 
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 4
@@ -37,25 +37,25 @@ EXTINF:-1 group-title=" NASIONAL " tvg-id="IndosiarHD.id" tvg-logo="http://edge.
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-title=" NASIONAL ",INDOSIAR 1
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-title=" NASIONAL ", INDOSIAR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-title=" NASIONAL",INDOSIAR 2
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-title=" NASIONAL ", INDOSIAR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/mnc.png" group-title=" NASIONAL ",MNC TV
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/mnc.png" group-title=" NASIONAL ", MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/mnc.png" tvg-id="MNCTV.id" , MNCTV 1
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/mnc.png" tvg-id="MNCTV.id", MNCTV 1
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|user-agent=android-R+&referrer=https://www.rctiplus.com/
 
 #EXTINF:-1 tvg-id="rcti.id" tvg-name="RCTI ID" group-title=" NASIONAL " tvg-logo="http://guki.my.id/logo/lokal/rcti.png", RCTI A
@@ -73,29 +73,30 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e8258
 
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" , RCTI D
 http://iptvtree.net:8080/F18819/6eb39c7d/157591
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" , RCTI E
+
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" , RCTI E
 http://xtv.ooo:8080/321166661/52816191/351023
 
 #EXTINF:-1 group-title=" NASIONAL" , tvg-logo="http://guki.my.id/logo/lokal/rcti.png",  RCTI F
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/sctv.jpg" group-title=" NASIONAL ",SCTV 1
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/sctv.jpg" group-title=" NASIONAL ", SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" ,SCTV 2
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV 2
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" ,SCTV 3
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV 3
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" ,SCTV_Gen
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="SCTV - [Channel 89].id" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV
+#EXTINF:-1 group-title=" NASIONAL" tvg-id="SCTV - [Channel 89].id" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV
 http://iptvtree.net:8080/F18819/6eb39c7d/162141
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/gtv.png" group-title=" NASIONAL ",GTV 1
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/gtv.png" group-title=" NASIONAL ", GTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
@@ -105,21 +106,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/gtv.png" tvg-id="GTV.id" , GTV 2
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+&referrer=https://www.rctiplus.com/
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/transtv.png" group-title=" NASIONAL",TRANS TV
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/transtv.png" group-title=" NASIONAL", TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/trans7.png" group-title=" NASIONAL ",TRANS 7
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/trans7.png" group-title=" NASIONAL ", TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="http://guki.my.id/logo/lokal/net.png" ,NET TV A
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="http://guki.my.id/logo/lokal/net.png" , NET TV A
 http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=NET.|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=https://www.dens.tv/
 
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/net.png" tvg-id="2830" ,  NET TV B
@@ -134,7 +135,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8|user-agent=Mozilla/5.0 (W
 #EXTINF:-1 group-title=" NASIONAL" tvg-id="NET TV - [Channel 116].id" tvg-logo="https://guki.my.id/logo/lokal/net.png", NET TVHD B
 https://melon-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|license_type=clearkey&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi&referrer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/kompas.png" group-title=" NASIONAL ",KOMPAS TV
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/kompas.png" group-title=" NASIONAL ", KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
@@ -157,10 +158,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/inews.png" , INEWS +
 http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+&referrer=http://www.rctiplus.com/
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/inews.png" ,ID|INews
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/inews.png" , ID|INews
 http://iptvtree.net:8080/F18819/6eb39c7d/157579
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/metro.png" group-title=" NASIONAL ",METRO TV 1
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/metro.png" group-title=" NASIONAL ", METRO TV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
@@ -170,7 +171,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/metro.png" , METRO TV 2
 https://flv.intechmedia.net/live/ch110.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/tvone.png" group-title=" NASIONAL ",TVONE
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/tvone.png" group-title=" NASIONAL ", TVONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
@@ -180,13 +181,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 group-title=" NASIONAL" tvg-id="tvOne - [Channel 97].id" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" , TV ONE 1
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" ,TVONE 2
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" , TVONE 2
 http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" ,TVONE 3
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" , TVONE 3
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" tvg-id="TVONE" ,TVONE 4
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" tvg-id="TVONE" , TVONE 4
 https://sonar.ytlive.workers.dev/stream/UCER4rvDnRBPr_ncYW4UCZjg/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/rtv.jpg" group-title=" NASIONAL ", RTV 1
@@ -196,25 +197,25 @@ https://sonar.ytlive.workers.dev/stream/UCER4rvDnRBPr_ncYW4UCZjg/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" tvg-id="Rajawali TV" ,RTV 2
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" tvg-id="Rajawali TV" , RTV 2
 http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8|user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" ,RTV SD
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" , RTV SD
 http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" ,RTV HD
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" , RTV HD
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" tvg-id="22" , RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" ,MOJI 1
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" , MOJI 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" ,CNN ID 1
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" , CNN ID 1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" ,CNN ID 2
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" , CNN ID 2
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 ######### ANAK2 #########
@@ -996,168 +997,168 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 
 ######### SONY INDIA #########
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="ENTERTAINMENT",SET HD
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-hd&.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Movies ",Sony SAB HD
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="MOVIES",Sony SAB HD
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Movies ",Sony PAL
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="MOVIES",Sony PAL
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-pal&.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Movies ",Sony YAY
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="MOVIES",Sony YAY
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-yay&.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Entertainment",Sony Marathi
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="ENTERTAINMENT",Sony Marathi
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-marathi&.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony AATH
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="ENTERTAINMENT",Sony AATH
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-aath&.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies ",Sony MAX HD
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="MOVIES ",Sony MAX HD
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-max-hd&.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies ",Sony WAH
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="MOVIES ",Sony WAH
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-wah&.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies ",Sony MAX2
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="MOVIES ",Sony MAX2
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-max-2&.m3u8
 
 ######### MUSIC #########
 
-#EXTINF:-1 group-title="Music" tvg-id="Citra Dangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut
+#EXTINF:-1 group-title="MUSIC" tvg-id="Citra Dangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=636974726164616e6764757430303030&key=65232737d3a5e4e14dbfd3d96805d30b
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
-#EXTINF:-1 tvg-id="MUSIC.ON!.TV（エムオン!）.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="Music",Music ON TV! 
+#EXTINF:-1 tvg-id="MUSIC.ON!.TV（エムオン!）.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="MUSIC",Music ON TV! 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="Music" tvg-id="MONDO.TV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV Japan
+#EXTINF:-1 group-title="MUSIC" tvg-id="MONDO.TV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
   
-#EXTINF:-1 tvg-id="Ｍｎｅｔ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png" group-title="Music",Mnet Japan
+#EXTINF:-1 tvg-id="Ｍｎｅｔ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png" group-title="MUSIC",Mnet Japan
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/350px-MTV_Hits_2021.svg.png",MTV Hits
+#EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/350px-MTV_Hits_2021.svg.png",MTV Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d
 http://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Tf0vweF.png",K-Pop TV 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Tf0vweF.png",K-Pop TV 
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8 
 
-#EXTINF:-1 group-title="Music" tvg-id="mtveast.us" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png",MTV USA 
+#EXTINF:-1 group-title="MUSIC" tvg-id="mtveast.us" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png",MTV USA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium371/index.m3u8 
 
-#EXTINF:-1 group-title="Music" tvg-id="mtvlive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/640px-MTV_Live_2021_logo.svg.png",MTV Live 
+#EXTINF:-1 group-title="MUSIC" tvg-id="mtvlive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/640px-MTV_Live_2021_logo.svg.png",MTV Live 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Nzk1MmNjNWYtMDExYy0zMTk3LTk1YWMtNzA3N2E5ODEzZDcy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id:443/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 group-title="Music" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://i.imgur.com/kXwxqg3.png",MTV Biggest Pop 
+#EXTINF:-1 group-title="MUSIC" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://i.imgur.com/kXwxqg3.png",MTV Biggest Pop 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
 
-#EXTINF:-1 group-title="Music" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://i.imgur.com/7R6I542.png",MTV Block Party 
+#EXTINF:-1 group-title="MUSIC" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://i.imgur.com/7R6I542.png",MTV Block Party 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
 
-#EXTINF:-1 group-title="Music" tvg-id="5ca6899a37b88b269472ea4b" tvg-logo="https://i.imgur.com/hbtvJrn.png",MTV Dating 
+#EXTINF:-1 group-title="MUSIX" tvg-id="5ca6899a37b88b269472ea4b" tvg-logo="https://i.imgur.com/hbtvJrn.png",MTV Dating 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca6899a37b88b269472ea4b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=330&terminate=false&userId= 
 
-#EXTINF:-1 group-title="Music" tvg-id="5ca672f515a62078d2ec0ad2" tvg-logo="https://i.imgur.com/ssuIAd3.png",MTV Pluto TV 
+#EXTINF:-1 group-title="MUSIC" tvg-id="5ca672f515a62078d2ec0ad2" tvg-logo="https://i.imgur.com/ssuIAd3.png",MTV Pluto TV 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId= 
 
-#EXTINF:-1 group-title="Music" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://i.imgur.com/mzF1SN8.png",MTV Spankin' New 
+#EXTINF:-1 group-title="MUSIC" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://i.imgur.com/mzF1SN8.png",MTV Spankin' New 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
 
-#EXTINF:-1 group-title="Music" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://i.imgur.com/jcK5SWg.png",MTV Yo! 
+#EXTINF:-1 group-title="MUSIC" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://i.imgur.com/jcK5SWg.png",MTV Yo! 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
 
-#EXTINF:-1 group-title="Music" tvg-id="boxhits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",Box Hits 
+#EXTINF:-1 group-title="MUSIC" tvg-id="boxhits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",Box Hits 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/ 
 
-#EXTINF:-1 group-title="Music" tvg-id="b4umusic.in" tvg-logo="https://i.postimg.cc/C1H0nHwV/1681710504042.png",B4U Music 
+#EXTINF:-1 group-title="MUSIC" tvg-id="b4umusic.in" tvg-logo="https://i.postimg.cc/C1H0nHwV/1681710504042.png",B4U Music 
 http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/1368
 
-#EXTINF:-1 group-title="Music" tvg-id="musictv.id" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059453_logo_music%20tv.png",Music TV 
+#EXTINF:-1 group-title="MUSIC" tvg-id="musictv.id" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059453_logo_music%20tv.png",Music TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id:443/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd 
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/640px-Trace_Urban_logo_2010.svg.png",Trace Urban 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/640px-Trace_Urban_logo_2010.svg.png",Trace Urban 
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevo70s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '70s 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevo70s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '70s 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevo80s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '80s 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevo80s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '80s 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevo90s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '90s 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevo90s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '90s 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevo2k.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo 2K 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevo2k.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo 2K 
 https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevo2010s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo 2010s
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevo2010s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo 2010s
 https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 
-#EXTINF:-1 group-title="Music" tvg-id="vevocountry.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Country 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevocountry.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Country 
 https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevohiphop.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Hip-Hop 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevohiphop.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Hip-Hop 
 https://d2p8vga36q26tv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbi3tu3ko2mz4-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevolatino.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Latino 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevolatino.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Latino 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevopop.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Pop 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevopop.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Pop 
 https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevornb.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo R&B 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevornb.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo R&B 
 https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevoreggaetonandtrap.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Reggaeton and Trap 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevoreggaetonandtrap.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Reggaeton and Trap 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
 
-#EXTINF:-1 group-title="Music" tvg-id="vevoretrorock.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Retro Rock 
+#EXTINF:-1 group-title="MUSIC" tvg-id="vevoretrorock.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Retro Rock 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
 
-#EXTINF:-1 group-title="Music" tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png",Mnet Korean
+#EXTINF:-1 group-title="MUSIC" tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png",Mnet Korean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://everylive.space/live/mnet/livestream.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickmusic.us" tvg-name="NICK MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="Music",NickMusic 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickmusic.us" tvg-name="NICK MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="MUSIC",NickMusic 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium666/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 channel-id="pluto-623a1b5188ecdc0007c9ef5a" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-chno="2540" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music" , XITE Rock
+#EXTINF:-1 channel-id="pluto-623a1b5188ecdc0007c9ef5a" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-chno="2540" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="MUSIC" , XITE Rock
 https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/250px-Club_MTV_2021_logo.svg.png" group-title="Music" , MTV Club
+#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/250px-Club_MTV_2021_logo.svg.png" group-title="MUSIC" , MTV Club
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d
 http://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd
