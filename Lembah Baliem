@@ -1,20 +1,3 @@
-ERROR 404 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -281,9 +264,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
-
 ============================================================================================================ CUBMU ============================================================================================================
-
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonnetwork.jpg", Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -611,6 +592,120 @@ http://918392487771290357.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290357.ts
 #EXTINF:-1 group-title="OLYMPIC EVENT" tvg-logo="https://docdog.top/logo/countries/france/eurosport3603.png" tvg-name="ES: EUROSPORT 7 HD" ,ES: EUROSPORT 7 HD
 http://918392487771290783.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290783.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By RTM 1
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By RTM 2
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By RTM 3
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By RTM 4
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By RTM 5
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By RTM 6
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94fae17e4d15e1cd0bdc7ced096fa510:e19b697fdedc5b0cf0ad5068de13d0a9
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5150/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1604ec11358c6c88102bef8ab5bdca10:c6a09b1d801d3631cd77da486578ddf6
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5151/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6afe246b3db067df837fafc06778d10:7c7a98236c7dcce43f1269190060b8a0
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5152/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64a8f08490d91ded89f977d85878d110:a1c391c1ea515756d5272972d6bbd729
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5153/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cb67b7fa34de61532947254309d4d10:288e7f89c9c8726d880753ddaf9e70ed
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5154/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=847059d47386706eee610062170f5610:9449a550b7c9d00f5a62ee1d68ae32a8
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5155/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6a0127305b4e146c13678114d943b10:e7e624c9c7fa76d81a462aba112fc461
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5156/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21f1c4e873b14d8d72628ecab98fe810:06239087fc45361fa869068914e695fa
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5157/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 9
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81257d6815f45da763f05273c0ef5310:671f266367e2eeb9078041617394ff69
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5158/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 10
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc8322786658471d0fa02ce31147d10:37f15c6763c1d67c451e3a6f24c493bf
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5159/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 11
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1bea23bddf56a18c19d5de612300910:44da935c6d074d290baf0f2c40339a02
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5160/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 12
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d566eb21d512365010ba325450eaba10:5af468398413fbfa270600bc7a0c6b61
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5161/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdc00bcd7b723761b6e3102fd38fb410:d045be7cf2fa81d762952a144e2833f2
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5162/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 14
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358d0c3f6900a52ddfa08ed5ced24510:9ca37f9e4cf1618ab932709e44df367a
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5163/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 15
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8242bb2805292138e886088f70357610:d35e728245dd11dc362fc307a9300fc7
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5164/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="OLYMPIC EVENT",Olympic Paris 2024 By Astro 16
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3e4daa30e0e957e809bae271e47b910:60e59bd86e2e4af1256922d1465728ca
+https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5165/default_primary.mpd
+
 ######### MOVIES #########
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/mycine.png" group-title="MOVIES", MY CINEMA
@@ -809,3 +904,260 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+######### KNOWLEDGE #########
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Crime_DE_Logo_2021.svg/2560px-Sky_Crime_DE_Logo_2021.svg.png" , Sky Crime
+https://thedream.biz.id/live/skycrime.m3u8|user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver&key= 2 rev&key= 250 Safari/533.3&referrer=https://thedream.biz.id/play.php
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-id="discoveryWorld" tvg-name="Discworld" ,Discovery World
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd|license_type=clearkey&license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://press.curiositystream.com/wp-content/uploads/2021/08/CuriosityChannel%E2%84%A2-Logo-Pos.png" ,Curiosity Channel
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://cdn.outsideonline.com/wp-content/uploads/2021/07/logo-outside.png" , Outside TV
+https://de76880773cb4fe2a42fe18d2547a0f5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg/revision/latest/scale-to-width-down/185?cb=20180603182756" , Russia Today
+https://cempedak-live-cdn.mncnow.id:443/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://i.imgur.com/CO7N8wc.png" tvg-id="animalplanetsoutheastasia.sg" ,Animal Planet
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png" tvg-id="bbcearthasia.uk" ,BBC Earth
+https://cempedak-live-cdn.mncnow.id:443/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4&referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" tvg-id="sonybbcearth.uk" ,Sony BBC Earth
+https://mhdtvweb.com/sliv/stream.php?id=sony-bbc-earth-hd&.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36&referrer=https://mhdtvweb.com/sonyliv/Play.php
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://i.imgur.com/j5MyKCl.png" tvg-id="crimeplusinvestigationasia.sg" ,Crime + Investigation
+https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4&referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" tvg-id="discoveryasia.sg" ,Discovery Asia
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://i.imgur.com/uEL1TDm.png" tvg-id="discoverychannelindonesia.id" ,Discovery Channel
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd|license_type=clearkey&license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=646973636f3030303030303030303030&key=0b0c2a86713e0546df8ab4403927059d
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/640px-InvestigationDiscoveryLogo2020.svg.png" tvg-id="investigationdiscoveryeast.us" ,Discovery Investigation
+https://webhdrunns.mizhls.ru/lb/premium324/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1&referrer=https://claplivehdplay.ru/
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" tvg-id="discoveryscienceuk.uk" ,Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://i.imgur.com/9sYeQuS.png" tvg-id="discoveryturbouk.uk" ,Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" tvg-id="globaltrekker.sg" ,Global Trekker
+https://cempedak-live-cdn.mncnow.id:443/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://i.imgur.com/YNpOmEc.png" tvg-id="historyasia.us" ,History
+https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd|license_type=clearkey&license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=69646b755f3130303030303030303030&key=e4a2359b05563399f1d9adfce641724a
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" tvg-id="linguachannel.id" ,Lingua Channel
+https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c6856fd0d66d0170341b51bd0904/manifest.mpd|license_type=com.widevine.alpha&license_key=https://tinyurl.com/CVBMV-DRM
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/640" tvg-id="nationalgeographicindonesia.id" ,Outdoor
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://i.imgur.com/OZ8lCeO.png" tvg-id="nationalgeographicindonesia.id" ,National Geographic
+https://webhdrunns.mizhls.ru/lb/premium328/index.m3u8|Origin=https://claplivehdplay.ru|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1&referrer=https://claplivehdplay.ru/
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-id="nationalgeographicwildindonesia.id" ,Love Nature ID
+https://cempedak-live-cdn.mncnow.id:443/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Nzk1MmNjNWYtMDExYy0zMTk3LTk1YWMtNzA3N2E5ODEzZDcy&referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://i.imgur.com/zqa20Bh.png" tvg-id="nationalgeographicwildindonesia.id" ,National Geographic Wild
+https://webhdrunns.mizhls.ru/lb/premium745/index.m3u8|Origin=https://claplivehdplay.ru|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1&referrer=https://claplivehdplay.ru/
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" tvg-id="nasatv.us" ,NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" tvg-id="nasatvpublic.us" ,NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/640px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png" tvg-id="nhkeducationaltv.jp" ,NHK Educational TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn&key=ANd9GcSlz5Po83OodgkRmpIkSXYBOcRzQYO9Z9LjMQ&usqp=CAU" tvg-id="outdoorchannel.us" ,Outdoor America
+https://abe7c843f2064704adfd0920c95b127b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ObsessionMedia/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/t/15/assets/logo-image-file.png" tvg-id="peopleareawesome.us" ,People Are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/RT_Documentary.png/revision/latest" tvg-id="rtdoc.ru" ,Russia Today Documentary
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://i.imgur.com/okSbavu.png" tvg-id="smithsonianchanneleast.us" ,Smithsonian Channel
+https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/SMTHHD_00192/manifest.mpd|license_type=clearkey&license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc9172c0134d41d4823fa8c7823e97d6&key=fd0deaf6d1fc06cf3e4e2ce606e5d45d
+
+#EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" tvg-id="indonesianatv.id" ,Indonesiana TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+
+######### SONY INDIA #########
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-hd&.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Movies ",Sony SAB HD
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Movies ",Sony PAL
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-pal&.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Movies ",Sony YAY
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-yay&.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Entertainment",Sony Marathi
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-marathi&.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony AATH
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-aath&.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies ",Sony MAX HD
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-max-hd&.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies ",Sony WAH
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-wah&.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies ",Sony MAX2
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-max-2&.m3u8
+
+######### MUSIC #########
+
+#EXTINF:-1 group-title="Music" tvg-id="Citra Dangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=636974726164616e6764757430303030&key=65232737d3a5e4e14dbfd3d96805d30b
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+
+#EXTINF:-1 tvg-id="MUSIC.ON!.TV（エムオン!）.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="Music",Music ON TV! 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="Music" tvg-id="MONDO.TV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+  
+#EXTINF:-1 tvg-id="Ｍｎｅｔ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png" group-title="Music",Mnet Japan
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/350px-MTV_Hits_2021.svg.png",MTV Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d
+http://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Tf0vweF.png",K-Pop TV 
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8 
+
+#EXTINF:-1 group-title="Music" tvg-id="mtveast.us" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png",MTV USA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium371/index.m3u8 
+
+#EXTINF:-1 group-title="Music" tvg-id="mtvlive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/640px-MTV_Live_2021_logo.svg.png",MTV Live 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Nzk1MmNjNWYtMDExYy0zMTk3LTk1YWMtNzA3N2E5ODEzZDcy
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id:443/live/eds/MTV/sa_dash_vmx/MTV.mpd
+
+#EXTINF:-1 group-title="Music" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://i.imgur.com/kXwxqg3.png",MTV Biggest Pop 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
+
+#EXTINF:-1 group-title="Music" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://i.imgur.com/7R6I542.png",MTV Block Party 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
+
+#EXTINF:-1 group-title="Music" tvg-id="5ca6899a37b88b269472ea4b" tvg-logo="https://i.imgur.com/hbtvJrn.png",MTV Dating 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca6899a37b88b269472ea4b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=330&terminate=false&userId= 
+
+#EXTINF:-1 group-title="Music" tvg-id="5ca672f515a62078d2ec0ad2" tvg-logo="https://i.imgur.com/ssuIAd3.png",MTV Pluto TV 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId= 
+
+#EXTINF:-1 group-title="Music" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://i.imgur.com/mzF1SN8.png",MTV Spankin' New 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
+
+#EXTINF:-1 group-title="Music" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://i.imgur.com/jcK5SWg.png",MTV Yo! 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
+
+#EXTINF:-1 group-title="Music" tvg-id="boxhits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",Box Hits 
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/ 
+
+#EXTINF:-1 group-title="Music" tvg-id="b4umusic.in" tvg-logo="https://i.postimg.cc/C1H0nHwV/1681710504042.png",B4U Music 
+http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/1368
+
+#EXTINF:-1 group-title="Music" tvg-id="musictv.id" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059453_logo_music%20tv.png",Music TV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id:443/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd 
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/640px-Trace_Urban_logo_2010.svg.png",Trace Urban 
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevo70s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '70s 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevo80s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '80s 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevo90s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '90s 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevo2k.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo 2K 
+https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevo2010s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo 2010s
+https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 group-title="Music" tvg-id="vevocountry.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Country 
+https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevohiphop.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Hip-Hop 
+https://d2p8vga36q26tv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbi3tu3ko2mz4-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevolatino.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Latino 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevopop.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Pop 
+https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevornb.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo R&B 
+https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevoreggaetonandtrap.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Reggaeton and Trap 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+
+#EXTINF:-1 group-title="Music" tvg-id="vevoretrorock.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo Retro Rock 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+
+#EXTINF:-1 group-title="Music" tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png",Mnet Korean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://everylive.space/live/mnet/livestream.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickmusic.us" tvg-name="NICK MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="Music",NickMusic 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium666/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 channel-id="pluto-623a1b5188ecdc0007c9ef5a" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-chno="2540" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music" , XITE Rock
+https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/250px-Club_MTV_2021_logo.svg.png" group-title="Music" , MTV Club
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d
+http://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd
