@@ -48,6 +48,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-title="Nasional",Indosiar HD (Home TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
+https://play.gachor99.my.id:443/play/voybqNT3BRKqPDRYS-CkE1Yia5A9Lgya1PfgiPrVWk8/m3u8
+
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/mnc.png" group-title=" NASIONAL ", MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
@@ -113,9 +118,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+&refe
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/transtv.png" group-title="NASIONAL",Trans 7 Transvision (OS9)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/transtv.png" group-title="NASIONAL",TransTV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
@@ -130,13 +132,6 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/transtv.png" group-title="NASIONAL",TransTV HD (Home TV)
 https://mantul.biz.id:443/IPTV1/123456/240.ts
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/trans7.png" group-title=" NASIONAL ", TRANS 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/trans7.png" group-title="NASIONAL",Trans 7 HD (Home TV)
 https://mantul.biz.id:443/IPTV1/123456/239.ts
@@ -235,6 +230,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" , MOJI 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL", Moji HD (Home TV)
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1803
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL", Moji FHD
+https://jihulab.com/iptv2571913/inal-iptv/nasio-inal/-/raw/main/mojiTV.m3u8?ref_type=heads
+
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" , CNN ID 1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
@@ -243,23 +244,23 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 
 ######### NASIONAL X #########
 
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" tvg-id="TVRI - [Channel 115].id" tvg-name="TVRI" , TVRIᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" tvg-id="TVRI - [Channel 115].id" tvg-name="TVRI" , TVRI
 https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" tvg-id="TVRI Maluku - [Channel 115].id" tvg-name="TVRI" , TVRI MALUKUᴴᴰ
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV A
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV B
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_tvone_big1.png" tvg-id="TVOne - [Channel 115].id" tvg-name="TVOne" , TVOneᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_tvone_big1.png" tvg-id="TVOne - [Channel 115].id" tvg-name="TVOne" , TVOne
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" tvg-id="INDOSIAR - [Channel 115].id" tvg-name="INDOSIAR" , INDOSIARᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" tvg-id="INDOSIAR - [Channel 115].id" tvg-name="INDOSIAR" , INDOSIAR A
 https://cdn14jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" , INDOSIAR
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" , INDOSIAR B
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e773b02392/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_sctv_big1.png" tvg-id="SCTV - [Channel 115].id" tvg-name="SCTV" , SCTVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_sctv_big1.png" tvg-id="SCTV - [Channel 115].id" tvg-name="SCTV" , SCTV A
 https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd|referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" , SCTV
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" , SCTV B
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" , MOJIᴴᴰ
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
