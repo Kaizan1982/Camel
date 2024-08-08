@@ -466,21 +466,56 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858afb4c71018b03be407
 
 ######### SPORT PREMIUM #########
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/ss1.png" tvg-name="SPORTSTARS 1" ,SPORTSTARS 1
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz&referrer=https://visionplus.id
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/ss2.png" tvg-name="SPORTSTARS 2" ,SPORTSTARS 2
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz&referrer=https://visionplus.id
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/ss3.png" tvg-name="SPORTSTARS 3" ,SPORTSTARS 3
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz&referrer=https://visionplus.id
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/ss4.png" tvg-name="SPORTSTARS 4" ,SPORTSTARS 4
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz&referrer=https://visionplus.id
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/sc.png" tvg-name="SOCCER CHANNEL" ,SOCCER CHANNEL (V+)
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz&referrer=https://visionplus.id
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="http://guki.my.id/logo/sports/spotv.png" tvg-name="SPO TV 1" ,SPO TV 1 (V+)
-https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz&referrer=https://visionplus.id
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="http://guki.my.id/logo/sports/spotv2.png" tvg-name="SPO TV 2" ,SPO TV 2 (V+)
-https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm&referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="sportstars" tvg-logo="https://guki.my.id/logo/sports/ss1.png",SportStars 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+ 
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="sportstars" tvg-logo="https://guki.my.id/logo/sports/ss2.png",SportStars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://guki.my.id/logo/sports/ss3.png" group-title="SPORTS PREMIUM", Sportstar 3HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/spotv.png" group-title="SPORTS PREMIUM",SPOTV1 HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
+ 
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/spotv2.png" group-title="SPORTS PREMIUM",SPOTV2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5rJK4zj/unisport.png" group-title="SPORTS PREMIUM",Unifi Sports 1 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:-1 tvg-id="41788" tvg-logo="https://guki.my.id/logo/sports/spotv2.png" group-title="Sport", SPOTV 1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:-1 tvg-id="41792" tvg-logo="https://guki.my.id/logo/sports/spotv2.png" group-title="SPORTS PREMIUM", SPOTV 2 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" ,Sony Ten 1
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
