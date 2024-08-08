@@ -264,29 +264,29 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" tvg-id="TVRI Maluku - [Channel 115].id" tvg-name="TVRI" , TVRI MALUKUᴴᴰ
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV A
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV A
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV B
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV B
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_tvone_big1.png" tvg-id="TVOne - [Channel 115].id" tvg-name="TVOne" , TVOne
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" tvg-id="TVOne - [Channel 115].id" tvg-name="TVOne" , TVOne
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" tvg-id="INDOSIAR - [Channel 115].id" tvg-name="INDOSIAR" , INDOSIAR A
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/indosiar.jpg" tvg-id="INDOSIAR - [Channel 115].id" tvg-name="INDOSIAR" , INDOSIAR A
 https://cdn14jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" , INDOSIAR B
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/indosiar.jpg" , INDOSIAR B
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e773b02392/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_sctv_big1.png" tvg-id="SCTV - [Channel 115].id" tvg-name="SCTV" , SCTV A
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" tvg-id="SCTV - [Channel 115].id" tvg-name="SCTV" , SCTV A
 https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd|referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" , SCTV B
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV B
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" , MOJIᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" , MOJI¹
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" ,RCTIᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" ,RCTI¹
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" tvg-name="RCTI" ,RCTI+ᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" tvg-name="RCTI" ,RCTI+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+&referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png" ,MNC TVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/mnc.png" ,MNC TV¹
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" tvg-id="GTV.id" ,GTVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/gtv.png" tvg-id="GTV.id" ,GTV¹
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png" , SindoNews
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
@@ -294,47 +294,47 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_inews_big.png" tvg-id="iNews - [Channel 433].id" tvg-name="iNews" , iNewsᴴᴰ
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" , TRANS TV
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/transtv.png" , TRANS TV¹
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" , TRANS TVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/transtv.png" , TRANS TV²
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" , TRANS 7
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/trans7.png" , TRANS 7¹
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 group-title="NASIONAL X" , TRANS 7ᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/trans7.png" , TRANS 7²
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-id="CNN ID - [Channel 115].id" tvg-name="CNN ID" , CNN ID ᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-id="CNN ID - [Channel 115].id" tvg-name="CNN ID" , CNN ID ¹
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 group-title="NASIONAL X" tvg-id="CNBC ID - [Channel 115].id" tvg-name="CNN ID" , CNBC ID ᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-id="CNBC ID - [Channel 115].id" tvg-name="CNN ID" , CNBC ID ²
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd|license_type=clearkey&license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 group-title="NASIONAL X" tvg-id="NET - [Channel 116].id" tvg-name="NET" , NET.ᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-id="NET - [Channel 116].id" tvg-name="NET" tvg-logo="https://guki.my.id/logo/lokal/net.png" , NET Tv
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" tvg-id="RTV - [Channel 116].id" tvg-name="RTV" , RTVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" tvg-id="RTV - [Channel 116].id" tvg-name="RTV" , RTVᴴᴰ
 https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png" tvg-id="METRO TV - [Channel 116].id" tvg-name="METRO TV" , METRO TVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/metrotv.jpg" tvg-id="METRO TV - [Channel 116].id" tvg-name="METRO TV" , METRO TVᴴᴰ
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36&referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://ambontv.my.id/logotv/magna.png" , MAGNA CHANNEL
 https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=Magna_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_kompastv_big1.png" tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" , KOMPAS TVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/kompastv.png" tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" , KOMPAS TVᴴᴰ
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36&referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_beritasatu_ver1.png" tvg-id="BERITA SATU - [Channel 116].id" tvg-name="BERITA SATU" , BERITASATUᴴᴰ
 https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_jaktv_big1.png" , JAKTVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_jaktv_big1.png" , JAKTV¹
 https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_jtv_big1.png" ,JTV
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://ambontv.my.id/logotv/garudatv.png" , GARUDA TVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://ambontv.my.id/logotv/garudatv.png" , GARUDA TVHD
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" , JAWAPOS TVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" , JAWAPOS TVHD
 https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_musikindo_small.png" , MUSIK IDᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_musikindo_small.png" , MUSIK ID
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_big1.png" , BIOSKOP IDᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_big1.png" , BIOSKOP ID
 https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com/
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" tvg-id="MAXStream - [Channel 115].id" tvg-name="MAXStream" , MAXStream
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://ambontv.my.id/logotv/tv3.png" , TV3ᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://ambontv.my.id/logotv/tv3.png" , TV3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_nusantaratv_big.png" , NUSANTARA TVᴴᴰ
+#EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/logo_nusantaratv_big.png" , NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://iili.io/JMp3pb2.png" ,VTV
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
