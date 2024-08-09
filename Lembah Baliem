@@ -535,31 +535,31 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" ,Sony Ten 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" tvg-id="AstroSuperSport.my" ,Astro 1 Supersport HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp1.png" tvg-id="AstroSuperSport.my" ,Astro 1 Supersport HD
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/146068
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://id.m.wikipedia.org/wiki/Astro_SuperSport#/media/Berkas%3AAstro_ASSP2.png" tvg-id="AstroSuperSport2.my" ,Astro 2 Supersport HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp2.png" tvg-id="AstroSuperSport2.my" ,Astro 2 Supersport HD
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157556
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://id.m.wikipedia.org/wiki/Astro_SuperSport#/media/Berkas%3AAstro_ASSP3.png" tvg-id="AstroSuperSport3.my" ,Astro 3 Supersport HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp3.png" tvg-id="AstroSuperSport3.my" ,Astro 3 Supersport HD
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157557
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://id.m.wikipedia.org/wiki/Astro_SuperSport#/media/Berkas%3AAstro_ASSP4.png" tvg-id="AstroSuperSport4.my" ,Astro 4 Supersport HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp4.png" tvg-id="AstroSuperSport4.my" ,Astro 4 Supersport HD
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157558
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/8V28ymE.png" ,Arena Sport 1 HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/a1.png" ,Arena Sport 1 HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=213666&extension=ts
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/rK9Fb3P.png" ,Arena Sport 2 HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/a2.png" ,Arena Sport 2 HD
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/49321
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/P7l1MRI.png" ,Arena Sport 3 HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/a3.png" ,Arena Sport 3 HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=213664&extension=ts
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/w0rXRUH.png" ,Arena Sport 4 HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/a4.png" ,Arena Sport 4 HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=110908&extension=ts&play_token=zE2Au534Nk
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/bb1JahX.png" ,Arena Sport 5 HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/a5.png" ,Arena Sport 5 HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=213641&extension=ts
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/qrxYpvs.png" ,Bein Sports Xtra
