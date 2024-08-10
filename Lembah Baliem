@@ -287,14 +287,27 @@ https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd|referrer=https://www.
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/moji.jpg" , MOJI¹
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#EXTGRP:NASIONAL X
+#EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="http://guki.my.id/logo/lokal/moji.jpg",Moji (Vidio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/rcti.jpg" ,RCTI¹
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/rcti.jpg" tvg-name="RCTI" ,RCTI+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+&referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/mnctv.jpg" ,MNC TV¹
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/gtv.jpg" group-title="NASIONAL X",GTV HD
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/7
+
+#EXTGRP:NASIONAL X
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV HD
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png" , SindoNews
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/inews.jpg" , iNews
@@ -309,7 +322,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|user-agent=Mozill
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 group-title="NASIONAL X" tvg-logo="https://guki.my.id/logo/lokal/trans7.jpg" , TRANS 7²
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43&referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="NASIONAL X" tvg-id="CNN ID - [Channel 115].id" tvg-name="CNN ID" , CNN ID HD
+#EXTINF:-1 group-title="NASIONAL X" tvg-id="CNN ID - [Channel 115].id" tvg-name="CNN ID" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" , CNN ID HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 group-title="NASIONAL X" tvg-id="NET - [Channel 116].id" tvg-name="NET" tvg-logo="https://guki.my.id/logo/lokal/nettv.jpg" , NET Tv
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36&referrer=https://www.indihometv.com
