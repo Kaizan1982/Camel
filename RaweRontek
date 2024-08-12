@@ -1050,29 +1050,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8
 #EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://i.ibb.co/rmWd6Bq/soccerCH.png" group-title="Sport",SOCCER CHANNEL (V+)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/njMvhF5/epro.png" group-title="Sport", PT156:Eleven Sports 1 SD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/29334
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/njMvhF5/epro.png" group-title="Sport", PT157:Eleven Sports 1 FHD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/49966
-
-#EXTINF:-1 tvg-logo="" group-title="Sport", PT159:Eleven Sports 2 FHD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/49032
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/njMvhF5/epro.png" group-title="Sport", PT134:Eleven Sports 2 SD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/29356
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/njMvhF5/epro.png" group-title="Sport", PT145:Eleven Sports 3 SD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/29345
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/njMvhF5/epro.png" group-title="Sport", PT119:Eleven Sports 3 FHD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/29371
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/njMvhF5/epro.png" group-title="Sport", PT146:Eleven Sports 4 SD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/29344
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/njMvhF5/epro.png" group-title="Sport", PT120:Eleven Sports 4 FHD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/29370
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NL106:ESPN 1 FHD
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/31425
@@ -1098,18 +1075,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nDC92ck/st3.png" group-title="Sport", Sportstar 3HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/31zFFSn/st4.png" group-title="Sport",Sportstar 4HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9XxCpv/tvrispt.png" group-title="Sport", TVRI Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
@@ -1121,24 +1086,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/197514
 #http://mykingtv.net:2082/gadget1k85/pass1k85/8416
 
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/X2zgLQL/astro2.png" group-title="Sport",ASTRO Supersport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://weblivehdplay.ru
-
 #EXTINF:-1 group-title="Sport" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://i.ibb.co/4YwTzc1/astro3.png",Astro SuperSport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default.mpd
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/197516
 #http://mykingtv.net:2082/gadget1k85/pass1k85/8418
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co/p0RhYwd/astro4.png" group-title="Sport",Astro Supersport 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://weblivehdplay.ru
-
 
 #EXTINF:-1 Sony Sports 1" tvg-logo="https://i.postimg.cc/4xTw4tNn/s1-1.png" group-title="Sport", Sony Sports 1B
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports1_norvegicus/playlist.m3u8
@@ -1190,47 +1143,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 #EXTINF: -1 tvg-id="UfcNetwork.us" tvg-logo="https://i.postimg.cc/RCs8SC73/ufc.png" group-title="Sport",UFC Fight
 http://fortv.cc:8080/N0QaDD/625713/146293
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/P1.png" group-title="Sport", PLAY SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/P2.png" group-title="Sport", PLAY SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/P3.png" group-title="Sport", PLAY SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/dzde1.png" group-title="Sport", DAZN DE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/dzde2.png" group-title="Sport", DAZN DE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/dzes1.png" group-title="Sport", DAZN ES 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/dzes2.png" group-title="Sport", DAZN ES 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 
 ######### KNOWLEDGE #########
 
