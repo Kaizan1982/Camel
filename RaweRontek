@@ -2502,35 +2502,541 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8|u
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8|user-agent=OTT Navigator/1.7.1.4 (Linux;Android 7.1.1; 1fznmb8) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,MONO
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8|user-agent=OTT Navigator/1.7.1.4 (Linux;Android 7.1.1; 1fznmb8) ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE ACTION 4K
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo-footer-Telecine.svg/1280px-Logo-footer-Telecine.svg.png" ,TELECINE ACTION 4K
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/294.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE ACTION HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo-footer-Telecine.svg/1280px-Logo-footer-Telecine.svg.png" ,TELECINE ACTION HD
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/295.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE CULT 4K
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo-footer-Telecine.svg/1280px-Logo-footer-Telecine.svg.png" ,TELECINE CULT 4K
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/297.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE CULT HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo-footer-Telecine.svg/1280px-Logo-footer-Telecine.svg.png" ,TELECINE CULT HD
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/298.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE FUN 4K
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo-footer-Telecine.svg/1280px-Logo-footer-Telecine.svg.png" ,TELECINE FUN 4K
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/300.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE FUN HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo-footer-Telecine.svg/1280px-Logo-footer-Telecine.svg.png" ,TELECINE FUN HD
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/301.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE PIPOCA 4K
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo-footer-Telecine.svg/1280px-Logo-footer-Telecine.svg.png" ,TELECINE PIPOCA 4K
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/303.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE PIPOCA HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo-footer-Telecine.svg/1280px-Logo-footer-Telecine.svg.png" ,TELECINE PIPOCA HD
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/304.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE PREMIUM 4K
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo-footer-Telecine.svg/1280px-Logo-footer-Telecine.svg.png" ,TELECINE PREMIUM 4K
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/306.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE PREMIUM HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/tctouch.png" ,TELECINE PREMIUM HD
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/307.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE TOUCH 4K
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/tctouch.png" ,TELECINE TOUCH 4K
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/309.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TELECINE TOUCH HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/tctouch.png" ,TELECINE TOUCH HD
 http://main.xplus2-main.xyz:2082/live/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/310.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,MARVEL STUDIOS
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/440px-Marvel_Studios_2016_logo.svg.png" ,MARVEL STUDIOS
 http://premiumiptvmk.com:8080/live/F19236/516c41c7/41361.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,MARVEL STUDIOS
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/440px-Marvel_Studios_2016_logo.svg.png" ,MARVEL STUDIOS
 http://premiumiptvmk.com:8080/live/F19236/516c41c7/41368.m3u8
 #EXTINF:-1 group-title="MOVIES" ,MARVEL STUDIOS
 http://premiumiptvmk.com:8080/live/F19236/516c41c7/174506.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,MARVEL STUDIOS
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/440px-Marvel_Studios_2016_logo.svg.png" ,MARVEL STUDIOS
 http://premiumiptvmk.com:8080/live/F19236/516c41c7/174514.m3u8
+
+######### ASTRO GO #########
+
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tv1.png" tvg-id="tv1.my" ,MY| TV1 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192001
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tv1.png" ,MY| TV1 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79326
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tv2.png" tvg-id="tv2.my" ,MY| TV2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192002
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tv2.png" ,MY| TV2 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79325
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tv3.png" tvg-id="tv3.my" ,MY| TV3 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400200329
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tv3.png" ,MY| TV3 [BK] HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400437966
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaw.png" ,MY| ASTRO AWANI FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29657
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaw.png" tvg-id="astroawani.my" ,MY| ASTRO AWANI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191859
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrori.png" tvg-id="astroria.my" ,MY| ASTRO RIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrori.png" ,MY| ASTRO RIA FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroprim.png" tvg-id="astroprima.my" ,MY| ASTRO PRIMA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191865
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroprim.png" ,MY| ASTRO PRIMA FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400438338
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrooas.png" ,MY| ASTRO OASIS FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29654
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrooas.png" tvg-id="astrooasis.my" ,MY| ASTRO OASIS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191864
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrow.png" tvg-id="astrowarna.my" ,MY| ASTRO WARNA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191874
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrow.png" ,MY| ASTRO WARNA [BK] HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79322
+#EXTINF:-1 group-title="ASTRO GO" ,MY| CITRA ENTERTAINMENT HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79327
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrocit.png" tvg-id="astrocitra.my" ,MY| ASTRO CITRA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400200335
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/awsm.png" ,MY| AWESOME TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400200777
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/awsm.png" ,MY| AWESOME TV FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/5232
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astror.png" tvg-id="astrorania.my" ,MY| ASTRO RANIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191866
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaur.png" tvg-id="astroaura.my" ,MY| ASTRO AURA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191858
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaec.png" tvg-id="astroaec.my" ,MY| ASTRO AEC HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191841
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaec.png" ,MY| ASTRO AEC [BK] HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79320
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hijrah.png" ,MY| TV ALHIJRAH FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29649
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hijrah.png" ,MY| TV ALHIJRAH HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192000
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ntv7.png" tvg-id="ntv7.my" ,MY| NTV7 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191968
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/8tv.png" tvg-id="8tv.my" ,MY| TV8 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192003
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/8tv.png" ,MY| TV8 [BK] HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79324
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tv9.png" tvg-id="tv9.my" ,MY| TV9 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192004
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tv9.png" ,MY| TV9 [BK] HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79323
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/8tv.png" tvg-id="8tv.my" ,MY| 8TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191836
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrotspm.png" tvg-id="tvsukan.my" ,MY| TVS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400200328
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroshp.png" tvg-id="astrogoshop.my" ,MY| GO SHOP 1 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191940
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroshp.png" ,MY| GO SHOP 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191939
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrovm.png" ,MY| ASTRO VINMEEN HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192012
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/SENSASI.png" ,MY| ASTRO SENSASI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/13490
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroad.png" ,MY| ADITHYA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191840
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroiq.png" tvg-id="astrotviq.my" ,MY| IQIYI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191950
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrosx.png" ,MY| ASTRO SHUANG XING HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191980
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroqu.png" ,MY| ASTRO QUAN JIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191974
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ctas.png" ,MY| CTI ASIA FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29615
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ctas.png" ,MY| CTI ASIA
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191911
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tvbens.png" ,MY| TVB E-NEWS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192006
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tvbxh.png" ,MY| TVB XING HE HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192007
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrohhd.png" ,MY| ASTRO HUA HEE DAI FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29655
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrohhd.png" tvg-id="astrohuaheedai.my" ,MY| ASTRO HUA HEE DAI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191948
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrohhd.png" ,MY| ASTRO HUA LEE HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/5230
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroohk.png" ,MY| ASTRO OHK HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/5231
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cc4.png" ,MY| CCTV4 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191897
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| TUTOR TV SK HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/12306
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| TUTOR TV SMK HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/12307
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| DidikTV KPM
+http://mytv-extra.com:80/t12mgxyb335/9832948789/12303
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| DREAMWORKS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/12304
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ASTRO VELLITHIRAI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/12305
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/one.png" ,MY| ONE FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29581
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/one.png" tvg-id="one.my" ,MY| ONE HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191970
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrovv.png" ,MY| ASTRO VAANAVIL FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29660
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrovv.png" tvg-id="astrovaanavil.my" ,MY| ASTRO VAANAVIL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192011
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/vasnth.png" ,MY| VASANTHAM FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6673
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/vasnth.png" ,MY| VASANTHAM HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33001
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/vasnth.png" ,MY| VASANTHAM SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6672
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6677
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33002
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6676
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6679
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33000
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8 SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6678
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ch5.png" ,MY| CH 5 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6681
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ch5.png" ,MY| CH 5 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33003
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ch5.png" ,MY| CH 5 SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6680
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/sur.png" ,MY| SURIA FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6675
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/sur.png" ,MY| SURIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33004
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/sur.png" ,MY| SURIA SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6674
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/phchch.png" ,MY| PHOENIX CHINESE CHANNEL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33006
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/phinfns.png" ,MY| PHOENIX INFO NEWS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33008
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cgtn.png" ,MY| CGTN FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29622
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cgtn.png" ,MY| CGTN HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33017
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/jazera.png" ,MY| AL JAZEERA FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29648
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/jazera.png" ,MY| AL JAZEERA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33019
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/kbswrld.png" tvg-id="kbsworld.my" ,MY| KBS WORLD HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191953
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/brnm.png" ,MY| BERNAMA TV
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400274059
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/skyns.png" tvg-id="skynews.id" ,MY| SKY NEWS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191981
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/skyns.png" ,MY| SKY NEWS FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29569
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cna.png" ,MY| CNA FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6671
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cna.png" ,MY| CNA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191903
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cna.png" ,MY| CNA SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6670
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cnbc.png" ,MY| CNBC ASIA FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29620
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cnbc.png" tvg-id="cnbc.id" ,MY| CNBC ASIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191904
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/blmbrg.png" ,MY| BLOOMBERG TV FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29628
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/blmbrg.png" tvg-id="bloomberg.id" ,MY| BLOOMBERG TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191886
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/abcaus.png" tvg-id="abcaustralia.id" ,MY| ABC AUSTRALIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191837
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/fr24.png" tvg-id="france24english.id" ,MY| FRANCE 24 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191936
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/kpls.png" ,MY| KPLUS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191955
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tlc.png" tvg-id="tlc.my" ,MY| TLC HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191994
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/wrnr.png" tvg-id="warnertv.my" ,MY| WARNER TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192013
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/mtv.png" ,MY| MTV ASIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191957
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/dw.png" tvg-id="dw.id" ,MY| DW HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191922
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/jayamx.png" ,MY| JAYA MAX HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191951
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/bluaex.png" tvg-id="blueantextreme.id" ,MY| BLUE ANT EXTREME
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191888
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/bluaet.png" tvg-id="blueantentertainment.id" ,MY| BLUE ANT ENTERTAINMENT
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191887
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hrvst.png" ,MY| HARVEST TV
+http://mytv-extra.com:80/t12mgxyb335/9832948789/380229
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hrvstar.png" ,MY| HARVEST TV ARABIA
+http://mytv-extra.com:80/t12mgxyb335/9832948789/380228
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hrvstsa.png" ,MY| HARVEST TV USA
+http://mytv-extra.com:80/t12mgxyb335/9832948789/380227
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/sny.png" ,MY| SONY TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191991
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/snysetmx.png" ,MY| SONY MAX HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191990
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/zing.png" ,MY| ZING HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191988
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/OKTOLI.png" ,MY| OKTOLIDAYS FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/54901
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/OKTOLI.png" ,MY| OKTOLIDAYS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/54900
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/GSZ.png" ,MY| GLOBAL TREKKER HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/54898
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/GSZ.png" ,MY| GLOBAL TREKKER SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/54897
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ROCK Entertainment FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38114
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ROCK Entertainment HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38113
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ROCK Entertainment SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38112
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/mkl.png" ,MY| MAKKAL TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191956
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroar.png" tvg-id="astroarena.my" ,MY| ASTRO ARENA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191853
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroarn2.png" ,MY| ASTRO ARENA 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/185822
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroar.png" ,MY| ASTRO ARENA BOLA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/23931
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroar.png" ,MY| ASTRO ARENA BOLA 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/23930
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrossp.png" ,MY| ASTRO SUPERSPORT UHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/7841
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrossp.png" tvg-id="astrosupersport.my" ,MY| ASTRO SUPERSPORT 1 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191869
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrossp.png" ,MY| ASTRO SUPERSPORT 1 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6590
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrossp.png" ,MY| ASTRO SUPERSPORT 1 HEVC
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6591
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrossp.png" ,MY| ASTRO SUPERSPORT 2 4K
+http://mytv-extra.com:80/t12mgxyb335/9832948789/7840
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp2.png" tvg-id="astrosupersport2.my" ,MY| ASTRO SUPERSPORT 2 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191870
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp2.png" ,MY| ASTRO SUPERSPORT 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6589
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp3.png" tvg-id="astrosupersport3.my" ,MY| ASTRO SUPERSPORT 3 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191871
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp3.png" ,MY| ASTRO SUPERSPORT 3 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6588
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp4.png" tvg-id="astrosupersport4.my" ,MY| ASTRO SUPERSPORT 4 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191872
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp4.png" ,MY| ASTRO SUPERSPORT 4 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6592
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp5.png" ,MY| ASTRO SUPERSPORT 5 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400251884
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrocri.png" tvg-id="astrocricket.my" ,MY| ASTRO CRICKET FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191861
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrocri.png" ,MY| ASTRO CRICKET HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6587
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/rgbypass.png" tvg-id="rugbypass.my" ,MY| ASTRO RUGBY PASS TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191868
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ASIAN GAME 1 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38026
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ASIAN GAME 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38025
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ASIAN GAME 3 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38024
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/spot.png" ,MY| SPORTS SPO TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400251883
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/spot.png" ,MY| SPORTS SPO TV 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400459082
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/prtm.png" ,MY| RTM SPORTS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/5233
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/bmax.png" tvg-id="beinsportsmax.my" ,MY| BEIN SPORTS MAX HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191885
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/bs/bs1eng.png" ,MY| BEIN SPORTS ENG 1 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191883
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/bs/bs2eng.png" ,MY| BEIN SPORTS ENG 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191884
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/bs.png" tvg-id="beinsports.my" ,MY| BEIN SPORTS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191881
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/bs.png" ,MY| BEIN SPORTS 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29639
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/bs.png" ,MY| BEIN SPORTS 3 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29637
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| UNIFY SPORT 1 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/12302
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| UNIFY SPORT 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/12301
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/eursp.png" ,MY| EUROSPORT FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29610
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/eursp.png" tvg-id="eurosport.my" ,MY| EUROSPORT HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191924
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/glfch.png" ,MY| GOLF CHANNEL FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29600
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/glfch.png" tvg-id="golfchannel.my" ,MY| GOLF CHANNEL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191942
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/prsp.png" ,MY| PREMIER SPORTS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33005
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/wwenw.png" ,MY| WWE NETWORK HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192015
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroar.png" ,MY| ASTRO ARENA FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29658
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/sny.png" ,MY| SONY TEN 1
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29566
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/sny.png" ,MY| SONY TEN 2
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29565
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/sny.png" ,MY| SONY TEN 3
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29564
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| SPL01 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38108
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| SPL01 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38107
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| SPL01 SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38106
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| SPL02 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38105
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| SPL02 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38104
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| SPL02 SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38103
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/clmov.png" tvg-id="celestialmovies.my" ,MY| CELESTIAL MOVIES HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191899
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ccm.png" tvg-id="ccm.id" ,MY| CELESTIAL CLASSIC MOVIES HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191896
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cwrl.png" ,MY| CINEMA WORLD HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191901
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cimx.png" ,MY| CINEMAX FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29621
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cimx.png" tvg-id="cinemax.my" ,MY| CINEMAX HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191902
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hits.png" tvg-id="hits.my" ,MY| HITS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191946
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hmov.png" tvg-id="hitsmovies.id" ,MY| HITS MOVIES HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191947
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/kix.png" tvg-id="kix.my" ,MY| KIX HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191954
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tvbcls.png" ,MY| TVB CLASSIC HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192005
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tvbjade.png" ,MY| TVB JADE HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192014
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrostrv.png" ,MY| STAR VIJAY-CH HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191992
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/nhd.png" ,MY| TVN FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29547
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/nhd.png" tvg-id="tvn.my" ,MY| TVN HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192009
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/nmov.png" ,MY| TVN MOVIES FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29546
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tvnmovies.png" tvg-id="tvnmovies.my" ,MY| TVN MOVIES HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192010
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/boo.png" tvg-id="boo.my" ,MY| ASTRO BOO HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400200333
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/boo.png" ,MY| ASTRO BOO FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29626
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaod.png" ,MY| ASTRO AOD 311 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29651
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaod.png" ,MY| ASTRO AOD 351 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191847
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaod.png" ,MY| ASTRO AOD 352 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191848
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaod.png" ,MY| ASTRO AOD 353 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191849
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaod.png" tvg-id="astroondemand362.my" ,MY| ASTRO AOD 362 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191850
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaod.png" ,MY| ASTRO AOD 354
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29650
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ASTRO PREMIER HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38023
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hbo.png" ,MY| HBO FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29599
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hbo.png" tvg-id="hbo.my" ,MY| HBO HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191943
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hbohit.png" ,MY| HBO HITS FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29598
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hbohit.png" ,MY| HBO HITS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400251887
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hbofam.png" ,MY| HBO FAMILY FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29597
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hbofam.png" ,MY| HBO FAMILY HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400251886
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| HBO Signature FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38109
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| HBO Signature HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38110
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| HBO Signature SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38111
+#EXTINF:-1 group-title="ASTRO GO" ,MY| COMEDY CENTRAL
+http://mytv-extra.com:80/t12mgxyb335/9832948789/157038
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrozt.png" ,MY| ZEE TAMIL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192017
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/clrs.png" ,MY| COLORS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400205157
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroclrta.png" ,MY| COLORS TAMIL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400205156
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/sun.png" ,MY| SUN TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400205155
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/sunmus.png" ,MY| SUN MUSIC HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191993
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/lftm.png" ,MY| LIFETIME HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400251890
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/prtm.png" ,MY| PRIMETIME HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400251888
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/shwcas.png" ,MY| SHOWCASE MOVIES HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400251885
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrobo.png" ,MY| ASTRO BOX OFFICE [THANGATHIRI] HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191839
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/bl1.png" tvg-id="astrobollyone.my" ,MY| ASTRO BOX OFFICE BOLLYONE HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191890
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/okey.png" tvg-id="tvokey.my" ,MY| TV OKEY HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400205152
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ROCK Action FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38117
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ROCK Action HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38116
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ROCK Action SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38115
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tada.png" ,MY| TA-DAA! HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400252171
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/scm.png" tvg-id="scm.id" ,MY| SCM HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191977
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/por/axnhd.png" ,MY| AXN FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29645
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/por/axnhd.png" tvg-id="axn.my" ,MY| AXN HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191876
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/tvbssia.png" ,MY| TVBS ASIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33015
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/trvlchn.png" ,MY| TRAVEL CHANNEL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191995
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/anplnt.png" ,MY| ANIMAL PLANET FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29647
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/anplnt.png" tvg-id="animalplanet.my" ,MY| ANIMAL PLANET HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191844
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/crmin.png" tvg-id="crimeandnvestigation.my" ,MY| CRIME INVESTIGATION HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191910
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/disc.png" tvg-id="discoveryasia.my" ,MY| DISCOVERY ASIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191912
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/disc.png" tvg-id="discoverychannel.my" ,MY| DISCOVERY CHANNEL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191913
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/dmx.png" ,MY| DMAX FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29612
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/dmx.png" tvg-id="dmax.my" ,MY| DMAX HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191918
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ng.png" tvg-id="nationalgeographicchannel.my" ,MY| NAT GEO ASIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191959
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ngw.png" tvg-id="natgeowild.my" ,MY| NAT GEO WILD HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191962
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/afn.png" ,MY| AFN FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29646
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/afn.png" ,MY| AFN HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191842
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/his.png" tvg-id="history.my" ,MY| HISTORY HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191945
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/fdnw.png" tvg-id="foodnetwork.my" ,MY| FOOD NETWORK HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191925
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/uk/prmnt.png" ,MY| PARAMOUNT NETWORK HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29579
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/hgtv.png" tvg-id="hgtv.my" ,MY| HGTV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191944
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrotpt3.png" tvg-id="astrotutortvpt3.my" ,MY| ASTRO TUTOR TV PT3 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191996
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrotspm.png" tvg-id="astrotutortvspm.my" ,MY| ASTRO TUTOR TV SPM HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191997
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrotup.png" tvg-id="astrotutortv.my" ,MY| ASTRO TUTOR TV UPSR HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191998
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrocer.png" ,MY| ASTRO CERIA FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29656
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrocer.png" tvg-id="astroceria.my" ,MY| ASTRO CERIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrowxy.png" ,MY| ASTRO XIAO TAI YANG FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29659
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrowxy.png" ,MY| ASTRO XIAO TAI YANG HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192016
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/bmrng.png" tvg-id="boomerang.id" ,MY| BOOMERANG HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191893
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/nickd.png" tvg-id="nickelodeon.my" ,MY| NICKELODEON HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191966
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/nickjr.png" tvg-id="nickelodeonjunior.my" ,MY| NICK JUNIOR HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191964
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cn.png" tvg-id="cartoonnetwork.my" ,MY| CARTOON NETWORK HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191894
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/bby.png" tvg-id="babytv.my" ,MY| BABY TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191877
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/dstv/moonbug.png" ,MY| MOONBUG KIDS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33010
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/anmx.png" tvg-id="animax.my" ,MY| ANIMAX HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191845
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/anipls.png" ,MY| ANIPLUS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191846
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| GEM FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38120
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| GEM HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38119
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| GEM SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38118
