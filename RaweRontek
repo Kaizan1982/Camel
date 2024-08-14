@@ -3040,3 +3040,19 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/38120
 http://mytv-extra.com:80/t12mgxyb335/9832948789/38119
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| GEM SD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/38118
+
+######### MALAY #########
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+#EXTINF:-1 tvg-name=876 ZAYAN tvg-logo="http://linear-poster.astro.com.my/prod/logo/Zayan_v1.png" group-title="astro" ch-number=876 tvg-id="876.astro" ,876 ZAYAN
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://tv.jnda.tech/dtc/80t292/l.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+#EXTINF:-1 group-title="astro" ch-number=877 tvg-id=877.astro tvg-name=877 GO XUAN tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo-goxuan_V1.png", 877 GO XUAN
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://tv.jnda.tech/dtc/mzxop6/l.mpd
