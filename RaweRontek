@@ -2406,7 +2406,7 @@ https://edge6a.v2h-cdn.com/dochannel/dochannel.stream/playlist.m3u8|user-agent=M
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,Sony MAX
 http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,Sony MAX HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" ,Sony MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,Sony MAX 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
