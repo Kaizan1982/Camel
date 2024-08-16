@@ -161,7 +161,7 @@ https://play-gachor.online/htv@lite/kjTECpmDmq/5|User-Agent=OTT Navigator/hometv
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/moji.png" ,MOJI HD
 https://play-gachor.online/htv@lite/kjTECpmDmq/305|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" ,INDOSIAR V
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" ,INDOSIAR V
 https://indahtv.net/vidio/hls.m3u8?id=205|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.vidio.com/
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/moji.png" group-title="Nasional",Moji HD (Home TV)
