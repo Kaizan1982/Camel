@@ -2325,7 +2325,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/my_cinema.png" ,My Cinema HD
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,My Cinema Europe HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/mce.png" ,My Cinema Europe HD
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/rock_action.png" ,Rock Action
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -2355,25 +2355,25 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd|license_type=cl
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/264769.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/imc.png" ,IMC
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd|license_type=clearkey&license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,IMC
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/imc.png" ,IMC
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj&referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,THRILL
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/thrill.png" ,THRILL
 https://cempedak-live-cdn.mncnow.id/eds/Thrill/sa_dash_vmx/Thrill.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj&referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TVN
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://guki.my.id/logo/movie/tvn2.png" ,TVN
 https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj&referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,TVN MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/tvn_movies.png" ,TVN MOVIES
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj&referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,ONE
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://guki.my.id/logo/movie/one.jpg" ,ONE
 https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj&referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,GEM
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png" ,GEM
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd|license_type=clearkey&license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,ZEE BIOSKOP
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/zee_bioskop.png" ,ZEE BIOSKOP
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj&referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,ZEE BIOSKOP
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/zee_bioskop.png" ,ZEE BIOSKOP
 https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,B4U MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/B4U_Movies.svg/revision/latest?cb=20100510190214" ,B4U MOVIES
 http://cdn2.pishow.tv/live/156/master.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,B4U MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/B4U_Movies.svg/revision/latest?cb=20100510190214" ,B4U MOVIES
 http://ktpremium.xyz:2095/live/yv2268/22681081/915358.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -2411,13 +2411,13 @@ http://ktpremium.xyz:2095/live/yv2268/22681081/915385.ts
 https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,Action Hollywood Movie
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,Cinemachi
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemachi.png" ,Cinemachi
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,Cinemachi Action
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemachi_action.png" ,Cinemachi Action
 https://cempedak-live-cdn.mncnow.id/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,Cinemachi Max
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemachi_max.png" ,Cinemachi Max
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,Cinemachi Xtra
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemachi_xtra.png" ,Cinemachi Xtra
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://visionplus.id
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg" ,BOX HITS HD (Vn)
 http://fpt.vthanhtivi.pw/Box_Hits/index.m3u8
