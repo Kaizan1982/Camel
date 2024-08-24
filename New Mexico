@@ -1125,3 +1125,289 @@ https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 group-title="TV PILIPIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png" ,Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
+######### MALAYSIA #########
+
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY001:TV 1" ,MY001:TV 1
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1734
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY002:TV 2" ,MY002:TV 2
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1733
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY003:TV 3" ,MY003:TV 3
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1732
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY004:NTV 7" ,MY004:NTV 7
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1731
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY005:TV 8" ,MY005:TV 8
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1730
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY006:TV 9" ,MY006:TV 9
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1729
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY007:QUAN JIA" ,MY007:QUAN JIA
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1728
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY008:SHUANG XING" ,MY008:SHUANG XING
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1727
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY009:Wah Lai Toi" ,MY009:Wah Lai Toi
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1726
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY010:HUA HEE DAI" ,MY010:HUA HEE DAI
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1725
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY011:AOD" ,MY011:AOD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1724
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY012:AEC" ,MY012:AEC
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1723
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY013:Super Sport 1" ,MY013:Super Sport 1
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1722
+#EXTINF:-1 group-title="Malaysia" tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" ,MY014:Super Sport 2
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1721
+#EXTINF:-1 group-title="Malaysia" tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" ,MY015:Super Sport 3
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1720
+#EXTINF:-1 group-title="Malaysia" tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" ,MY016:Super Sport 4
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1719
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY017:CELESTIAL" ,MY017:CELESTIAL
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1718
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY018:BERNAMA" ,MY018:BERNAMA
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1717
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY019:Kix HD" ,MY019:Kix HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1716
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY020:Star Chinese Channel" ,MY020:Star Chinese Channel
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1715
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY021:XIAO TAI YANG" ,MY021:XIAO TAI YANG
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1714
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY022:Super Sport 5" ,MY022:Super Sport 5
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1713
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY023:TVB CLASSIC" ,MY023:TVB CLASSIC
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1712
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY024:HBO" ,MY024:HBO
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1711
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY027:CGTN" ,MY027:CGTN
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1708
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY028:HBO Family" ,MY028:HBO Family
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1707
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY029:WARNA" ,MY029:WARNA
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1706
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY030:RIA" ,MY030:RIA
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1705
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY031:AWANI" ,MY031:AWANI
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1704
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY032:ARENA" ,MY032:ARENA
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1703
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY033:PRIMA" ,MY033:PRIMA
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1702
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY034:OASIS" ,MY034:OASIS
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1701
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY035:Singapore Suria" ,MY035:Singapore Suria
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1700
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY036:Singapore Vasantham" ,MY036:Singapore Vasantham
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1699
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY037:WWE" ,MY037:WWE
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1698
+#EXTINF:-1 group-title="Malaysia" tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" ,MY038:BOO
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1697
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY039:Arena2" ,MY039:Arena2
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1696
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY040:ASTRO ASSP HD" ,MY040:ASTRO ASSP HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/59220
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY041:ASTRO ASSP2 HD" ,MY041:ASTRO ASSP2 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/59219
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY042:ASTRO ASSP3 HD" ,MY042:ASTRO ASSP3 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/59218
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY042:Ria" ,MY042:Ria
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71020
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY043:ASTRO ASSP4 HD" ,MY043:ASTRO ASSP4 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/59217
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY043:Awesome TV" ,MY043:Awesome TV
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71021
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY044:Rania" ,MY044:Rania
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71022
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY046:TV ALHIJRAH" ,MY046:TV ALHIJRAH
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71024
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY047:aura" ,MY047:aura
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71025
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY048:Astro Premier 1" ,MY048:Astro Premier 1
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71026
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY049:KBSW" ,MY049:KBSW
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71027
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY050:GO SHOP" ,MY050:GO SHOP
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71028
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY051:Sun Music" ,MY051:Sun Music
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71029
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY052:TUTOR TV SK" ,MY052:TUTOR TV SK
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71030
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY053:ASTRO Adithya" ,MY053:ASTRO Adithya
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71031
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY054:ASTRO Zee Tamil" ,MY054:ASTRO Zee Tamil
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71032
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY055:Star Vijay Super" ,MY055:Star Vijay Super
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71033
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY056:ASTRO Star Vijay" ,MY056:ASTRO Star Vijay
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71034
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY057:ASTRO Colors Tamil" ,MY057:ASTRO Colors Tamil
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71035
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY058:SUN TV HD" ,MY058:SUN TV HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71036
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY059:HBO Hits" ,MY059:HBO Hits
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71037
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY060:iQIYI HD" ,MY060:iQIYI HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71038
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY061:GO SHOP 2" ,MY061:GO SHOP 2
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71039
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY067:TVB JADE" ,MY067:TVB JADE
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71040
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY068:AOD 351 HD" ,MY068:AOD 351 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71041
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY069:CTI Asia" ,MY069:CTI Asia
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71042
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY070:TVB E-NEWS" ,MY070:TVB E-NEWS
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71043
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY071:TVB XING HE HD" ,MY071:TVB XING HE HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71044
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY072:TVBS ASIA HD" ,MY072:TVBS ASIA HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71045
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY073:CCM" ,MY073:CCM
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71046
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY075:CCTV4 HD" ,MY075:CCTV4 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71047
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY076:AOD 352 HD" ,MY076:AOD 352 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71048
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY077:AOD 353 HD" ,MY077:AOD 353 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71049
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY078:AOD 354 HD" ,MY078:AOD 354 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71050
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY079:AOD 355 HD" ,MY079:AOD 355 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71051
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY080:KBS World HD" ,MY080:KBS World HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71052
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY081:ONE HD" ,MY081:ONE HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71053
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY082:Singapore Channel 8" ,MY082:Singapore Channel 8
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71054
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY083:TVN HD" ,MY083:TVN HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71055
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY084:Hits Movies HD" ,MY084:Hits Movies HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71056
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY086:Cinemax HD" ,MY086:Cinemax HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71058
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY087:TVN Movies" ,MY087:TVN Movies
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71059
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY088:OKEY TV" ,MY088:OKEY TV
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71060
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY089:Moonbug Kids" ,MY089:Moonbug Kids
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71061
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY091:AL JAZEERA HD" ,MY091:AL JAZEERA HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71063
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY092:SKY NEWS HD" ,MY092:SKY NEWS HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71064
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY093:CNA HD" ,MY093:CNA HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71065
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY094:CNBC" ,MY094:CNBC
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71066
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY095:Bloomberg TV" ,MY095:Bloomberg TV
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71067
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY096:ABC AUSTRALIA" ,MY096:ABC AUSTRALIA
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71068
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY097:8TV" ,MY097:8TV
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71069
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY099:Discovery HD" ,MY099:Discovery HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71071
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY100:DISCOVERY ASIA" ,MY100:DISCOVERY ASIA
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71072
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY101:Discovery Science" ,MY101:Discovery Science
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71073
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY102:HISTORY HD" ,MY102:HISTORY HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71074
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY103:ANIMAL PLANET HD" ,MY103:ANIMAL PLANET HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71075
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY104:TUTOR TV UPSR" ,MY104:TUTOR TV UPSR
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71076
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY106:TUTOR TV SMK" ,MY106:TUTOR TV SMK
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71078
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY107:Astro SuperSport Events 6" ,MY107:Astro SuperSport Events 6
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71079
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY108:ASTRO Ceria" ,MY108:ASTRO Ceria
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71080
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY112:Cartoon Network" ,MY112:Cartoon Network
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71084
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY113:NICKELODEON HD" ,MY113:NICKELODEON HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71085
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY114:NICK JR" ,MY114:NICK JR
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71086
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY115:AXN HD" ,MY115:AXN HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71087
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY116:Phoenix" ,MY116:Phoenix
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71088
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY117:HITS HD" ,MY117:HITS HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71089
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY118:TLC HD" ,MY118:TLC HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71090
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY119:FOOD NTWK HD" ,MY119:FOOD NTWK HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71091
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY120:AFN HD" ,MY120:AFN HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71092
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY122:WARNER TV" ,MY122:WARNER TV
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71094
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY123:Crime Investigation" ,MY123:Crime Investigation
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71095
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY124:HGTV HD" ,MY124:HGTV HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71096
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY125:DMAX HD" ,MY125:DMAX HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71097
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY126:COMEDY CENTRAL" ,MY126:COMEDY CENTRAL
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71098
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY127:MTV" ,MY127:MTV
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71099
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY128:ANIMAX" ,MY128:ANIMAX
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71100
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY129:bEIN Sports 3" ,MY129:bEIN Sports 3
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71101
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY132:beIN SPORTS" ,MY132:beIN SPORTS
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71104
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY133:Astro Premier 2" ,MY133:Astro Premier 2
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71105
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY134:EUROSPORT HD" ,MY134:EUROSPORT HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71106
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY135:GOLF CHANNEL HD" ,MY135:GOLF CHANNEL HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71107
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY136:ASTRO Rugby Pass" ,MY136:ASTRO Rugby Pass
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71108
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY137:ASTRO Cricket" ,MY137:ASTRO Cricket
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71109
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY139:KPLUS HD" ,MY139:KPLUS HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71111
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY140:DW HD" ,MY140:DW HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71112
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY141:FRANCE24 HD" ,MY141:FRANCE24 HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71113
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY146:beIN Sports 2" ,MY146:beIN Sports 2
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71118
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY147:BBC Earth HD" ,MY147:BBC Earth HD
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71119
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY148:BBC Lifestyle" ,MY148:BBC Lifestyle
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71120
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY149:Baby TV" ,MY149:Baby TV
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71121
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY150:BBC World News" ,MY150:BBC World News
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71122
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY151:sukan" ,MY151:sukan
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71123
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY155:GO SHOP 4" ,MY155:GO SHOP 4
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71127
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY163:AFC" ,MY163:AFC
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71134
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY164:Paramount Channel" ,MY164:Paramount Channel
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71135
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY166:Global Trekker" ,MY166:Global Trekker
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71137
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY168:SCM" ,MY168:SCM
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71138
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY169:SETi Chinese" ,MY169:SETi Chinese
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71139
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY170:Lifetime" ,MY170:Lifetime
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71140
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY171:Love Nature" ,MY171:Love Nature
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71141
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY172:Singapore Channel News Asia" ,MY172:Singapore Channel News Asia
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71142
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY177:Astro SuperSport Events 3" ,MY177:Astro SuperSport Events 3
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71146
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY178:SPOTV" ,MY178:SPOTV
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71147
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY179:TVS" ,MY179:TVS
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71148
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY180:Awesome TV" ,MY180:Awesome TV
+http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71149
