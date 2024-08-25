@@ -1133,11 +1133,11 @@ http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1734
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1733
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY003:TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1280px-TV3_%28Malaysia%29.svg.png",TV 3
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1732
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY004:NTV 7" ,MY004:NTV 7
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY004:NTV 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png",NTV 7
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1731
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY005:TV 8" ,MY005:TV 8
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY005:TV 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1280px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",TV 8
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1730
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY006:TV 9" ,MY006:TV 9
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY006:TV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_%28Malaysia%29.svg/215px-Logo_of_TV9_%28Malaysia%29.svg.png",TV 9
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1729
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY007:QUAN JIA" ,MY007:QUAN JIA
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1728
