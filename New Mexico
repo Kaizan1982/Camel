@@ -1139,37 +1139,37 @@ http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1731
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1730
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY006:TV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_%28Malaysia%29.svg/215px-Logo_of_TV9_%28Malaysia%29.svg.png",TV 9
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1729
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY007:QUAN JIA" ,MY007:QUAN JIA
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY007:QUAN JIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",QUAN JIA
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1728
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY008:SHUANG XING" ,MY008:SHUANG XING
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY008:SHUANG XING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Astro_SHX_HD.jpeg,SHUANG XING
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1727
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY009:Wah Lai Toi" ,MY009:Wah Lai Toi
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY009:Wah Lai Toi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png",Wah Lai Toi
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1726
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY010:HUA HEE DAI" ,MY010:HUA HEE DAI
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY010:HUA HEE DAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png",HUA HEE DAI
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1725
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY011:AOD" ,MY011:AOD
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY011:AOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",AOD
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1724
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY012:AEC" ,MY012:AEC
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY012:AEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",AEC
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1723
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY013:Super Sport 1" ,MY013:Super Sport 1
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY013:Super Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Super Sport 1
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1722
-#EXTINF:-1 group-title="Malaysia" tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" ,MY014:Super Sport 2
+#EXTINF:-1 group-title="Malaysia" tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",Super Sport 2
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1721
-#EXTINF:-1 group-title="Malaysia" tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" ,MY015:Super Sport 3
+#EXTINF:-1 group-title="Malaysia" tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Super Sport 3
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1720
-#EXTINF:-1 group-title="Malaysia" tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" ,MY016:Super Sport 4
+#EXTINF:-1 group-title="Malaysia" tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Super Sport 4
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1719
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY017:CELESTIAL" ,MY017:CELESTIAL
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY017:CELESTIAL" tvg-logo="https://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2",CELESTIAL
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1718
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY018:BERNAMA" ,MY018:BERNAMA
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY018:BERNAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/1280px-Bernama_TV.png",BERNAMA
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1717
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY019:Kix HD" ,MY019:Kix HD
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY019:Kix HD" tvg-logo="https://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png",Kix HD
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1716
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY020:Star Chinese Channel" ,MY020:Star Chinese Channel
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY020:Star Chinese Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_China.svg/500px-Star_China.svg.png",Star Chinese Channel
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1715
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY021:XIAO TAI YANG" ,MY021:XIAO TAI YANG
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY021:XIAO TAI YANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png",XIAO TAI YANG
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1714
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY022:Super Sport 5" ,MY022:Super Sport 5
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY022:Super Sport 5" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/astro-supersport-5.png",Super Sport 5
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1713
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY023:TVB CLASSIC" ,MY023:TVB CLASSIC
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1712
