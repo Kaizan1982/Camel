@@ -1129,7 +1129,7 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY001:TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV 1
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1734
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY002:TV 2" tvg-logo="https://id.m.wikipedia.org/wiki/TV2_(Malaysia)#/media/Berkas%3ATV2_RTM.png",TV 2
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY002:TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV 2
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1733
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY003:TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1280px-TV3_%28Malaysia%29.svg.png",TV 3
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1732
@@ -1179,17 +1179,17 @@ http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1711
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1708
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY028:HBO Family" ,MY028:HBO Family
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1707
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY029:WARNA" ,MY029:WARNA
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY029:WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",WARNA
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1706
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY030:RIA" ,MY030:RIA
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY030:RIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",RIA
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1705
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY031:AWANI" ,MY031:AWANI
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY031:AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",AWANI
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1704
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY032:ARENA" ,MY032:ARENA
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY032:ARENA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_Arena_HD.png",ARENA
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1703
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY033:PRIMA" ,MY033:PRIMA
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY033:PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Media_Prima.png",PRIMA
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1702
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY034:OASIS" ,MY034:OASIS
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY034:OASIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",OASIS
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1701
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY035:Singapore Suria" ,MY035:Singapore Suria
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1700
@@ -1197,19 +1197,19 @@ http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1700
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1699
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY037:WWE" ,MY037:WWE
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1698
-#EXTINF:-1 group-title="Malaysia" tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" ,MY038:BOO
+#EXTINF:-1 group-title="Malaysia" tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo=",MY038:BOO
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1697
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY039:Arena2" ,MY039:Arena2
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1696
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY040:ASTRO ASSP HD" ,MY040:ASTRO ASSP HD
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASTRO ASSP HD
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/59220
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY041:ASTRO ASSP2 HD" ,MY041:ASTRO ASSP2 HD
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ASTRO ASSP2 HD
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/59219
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY042:ASTRO ASSP3 HD" ,MY042:ASTRO ASSP3 HD
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASTRO ASSP3 HD
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/59218
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY042:Ria" ,MY042:Ria
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY042:Ria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Ria
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71020
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY043:ASTRO ASSP4 HD" ,MY043:ASTRO ASSP4 HD
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ASTRO ASSP4 HD
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/59217
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY043:Awesome TV" ,MY043:Awesome TV
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/71021
