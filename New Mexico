@@ -1127,11 +1127,11 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 ######### MALAYSIA #########
 
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY001:TV 1" ,MY001:TV 1
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY001:TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV 1
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1734
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY002:TV 2" ,MY002:TV 2
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY002:TV 2" tvg-logo="https://id.m.wikipedia.org/wiki/TV2_(Malaysia)#/media/Berkas%3ATV2_RTM.png",TV 2
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1733
-#EXTINF:-1 group-title="Malaysia" tvg-name="MY003:TV 3" ,MY003:TV 3
+#EXTINF:-1 group-title="Malaysia" tvg-name="MY003:TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1280px-TV3_%28Malaysia%29.svg.png",TV 3
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1732
 #EXTINF:-1 group-title="Malaysia" tvg-name="MY004:NTV 7" ,MY004:NTV 7
 http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1731
