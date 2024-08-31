@@ -719,15 +719,50 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
+######### DAZN #########
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/0OEU1Os.png" ,RMC SPORT 2
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28133|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/s5HZEjQ.png" ,RMC SPORT 3
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28132|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605032_image-header_pEs_1661946616000&quality=70&width=500", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/9nvtPSr.png" ,RMC SPORT 4
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28130|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://i.imgur.com/RHORZXz.png"", DAZN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN" tvg-id="dazn4_spain" tvg-logo="https://i.imgur.com/0vvP4SE.png", DAZN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN" tvg-id="dazn_laliga" tvg-logo="https://i.imgur.com/srx5bGb.png", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN" tvg-id="laliga_hypermotion" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN" tvg-id="laliga_hypermotion2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN" tvg-id="laliga_hypermotion3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/sc1.jpg" ,SSC SPORT 1
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/27441|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -740,72 +775,6 @@ http://mohdtv.com:8880/hdtv30a6120c16db/39024972/27437|license_type=com.widevine
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/scr.jpg" ,SSC SPORT 4
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/27435|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/XWg06ok.png" ,PREMIER SPORT 1
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28862|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/KCjYBNy.png" ,PREMIER SPORT 2
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28861|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ameH5jn.png" ,bEIN SPORT 1 FR
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2830|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/VcGgcJq.png" ,bEIN SPORT 2 BN
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2140|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/t8gyJVw.png" ,bEIN SPORT 3
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2139|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/JiRatCQ.png" ,bEIN SPORT 4
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/61076|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/tPz4mtw.png" ,bEIN SPORT 5
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2120|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/qIf0Kc7.png" ,bEIN SPORT 6
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2119|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/jaL4tgZ.png" ,ESPN 1
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=61341&extension=ts|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/XVOem7M.png" ,ESPN 2
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=61458&extension=ts|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/FanbBsr.png" ,ESPN 3 PE006
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/58027|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/q6p7gxP.png" ,FOX SPORTS 1 AU025
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/61087|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/tMYRWEE.png" ,FOX SPORTS 2
-http://4.26.188.2:8081/udp/239.193.10.102:23902|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/Ww36SyE.png" ,FOX SPORTS 3
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/61085|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/skyepl.png" ,SKY SPORT PREMIER LEAGUE
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/29071|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/skyf1.png" ,SKY SPORT F1
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/29075|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/UAP80Uh.png" ,SKY SPORT NBA
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28472|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/alkass1.png" ,ALKASS 1
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2097|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/alkass2.png" ,ALKASS 2
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2096|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/spor1.png" ,Sport TV 1 PT058:
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/3192|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1280px-TRT_1_logo_%282021-%29.svg.png" ,TRT Sport 1
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/32817|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1280px-TRT_2_logo.svg.png" ,TRT Sport 2
-http://mohdtv.com:8880/hdtv30a6120c16db/39024972/32818|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/FIFA_logo_without_slogan.svg.png" ,FIFA+
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
