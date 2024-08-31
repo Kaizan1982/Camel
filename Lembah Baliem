@@ -71,7 +71,7 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|user-agent=Mozilla/5
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 4
 https://flv.intechmedia.net/live/ch108.m3u8|user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 
-EXTINF:-1 group-title=" NASIONAL " tvg-id="IndosiarHD.id" tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg", INDOSIAR 4
+#EXTINF:-1 group-title=" NASIONAL " tvg-id="IndosiarHD.id" tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg", INDOSIAR 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
@@ -472,17 +472,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858afb4c71018b03be407
 
 ######### SPORT PREMIUM #########
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="sportstars" tvg-logo="https://guki.my.id/logo/sports/ss1.png",SportStars 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
- 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="sportstars" tvg-logo="https://guki.my.id/logo/sports/ss2.png",SportStars 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/ss1.png" ,SportsStars 1
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|license_type=clearkey&license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f&referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/ss2.png" ,SportsStars 2
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://guki.my.id/logo/sports/ss3.png" group-title="SPORTS PREMIUM", Sportstar 3HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
