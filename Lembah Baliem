@@ -27,25 +27,25 @@
 #EXTM3U billed-msg="BY FLYNGDUTCHMAN * NOT FOR SALE * THIS PLAYLIST IS FREE"
 ######### LIVE EVENT PL #########
 
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL10: Liverpool 16:30 Brentford 25/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL10: NOW SPORTS 10
 http://opplextv.cyou:8080/0000000000/0000000000/381743
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL09: Wolves 14:00 Chelsea 25/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL09: NOW SPORTS 09
 http://opplextv.cyou:8080/0000000000/0000000000/381742
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL08: Bournemouth 14:00 Newcastle Utd 25/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL08: NOW SPORTS 08
 http://opplextv.cyou:8080/0000000000/0000000000/381741
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL07: Aston Villa 17:30 Arsenal 24/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL07: NOW SPORTS 07
 http://opplextv.cyou:8080/0000000000/0000000000/381740
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL06: Spurs 15:00 Everton 24/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL06: NOW SPORTS 06
 http://opplextv.cyou:8080/0000000000/0000000000/381739
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL05: Southampton 15:00 Notts Forest 24/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL05: NOW SPORTS 05
 http://opplextv.cyou:8080/0000000000/0000000000/381738
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL04: Man City 15:00 Ipswich Town 24/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL04: NOW SPORTS 04
 http://opplextv.cyou:8080/0000000000/0000000000/381737
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL03: Fulham 15:00 Leicester City 24/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL03: NOW SPORTS 03
 http://opplextv.cyou:8080/0000000000/0000000000/381736
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL02: Crystal Palace 15:00 West Ham 24/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL02: NOW SPORTS 02
 http://opplextv.cyou:8080/0000000000/0000000000/381735
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL01: Brighton 12:30 Man Utd 24/08
+#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL01: NOW SPORTS 01
 http://opplextv.cyou:8080/0000000000/0000000000/381734
 #EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" ,EPL Goal Rush: Multi View
 http://opplextv.cyou:8080/0000000000/0000000000/381733
