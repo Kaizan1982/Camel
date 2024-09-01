@@ -2583,46 +2583,6 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="LIGA MAHAL",LIVE 3
 http://108.181.132.217:8070/AmirBilali/76448035/162138
 
-######### BWF #########
-
-#EXTINF:-1 group-title="Sports Special" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" ,BWF 1
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh&referrer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="Sports Special" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" ,BWF 2
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh&referrer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="Sports Special" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" ,BWF 3
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm&referrer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="Sports Special" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" ,BWF 4
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh&referrer=https://www.visionplus.id/
-
-######### SERIE A #########
-
-#EXTINF:-1 group-title="Live Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" , Serie A LIVE 1
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&referrer=https://live-streamfootball.com/index.php
-
-#EXTINF:-1 group-title="Live Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" , Serie A LIVE 2
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-
-#EXTINF:-1 group-title="Live Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" , Serie A LIVE 3
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-
-#EXTINF:-1 group-title="Live Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" , Serie A LIVE 4
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-
-#EXTINF:-1 group-title="Live Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" , Serie A LIVE 5
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-
-#EXTINF:-1 group-title="Live Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" , Serie A LIVE 6
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-
-#EXTINF:-1 group-title="Live Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" , Serie A LIVE 7
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-
-#EXTINF:-1 group-title="Live Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" , Serie A LIVE 8
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-
 ######### ELEVEN SPORTS #########
 
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 3 HD
