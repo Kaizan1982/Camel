@@ -2583,3 +2583,62 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="LIGA MAHAL",LIVE 3
 http://108.181.132.217:8070/AmirBilali/76448035/162138
 
+######### NBC PEACOCK #########
+
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="GolfPass.peacocktv" tvg-name="Peacock Live: Golf Pass" ,Peacock Live: Golf Pass
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/e24f93c3-a08d-4f21-83a9-b32fe02c677e.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="LX.peacocktv" tvg-name="Peacock Live: NBC LX" ,Peacock Live: NBC LX
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/f607b65f-ef78-44a7-bae1-911df2593e99.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="NBCSportsonPeacock.peacocktv" tvg-name="Peacock Live: NBC Sports" ,Peacock Live: NBC Sports
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/a9985dac-cd1b-4bd2-bc24-2e9c1d80b4bc.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PremierLeagueTV.peacocktv" tvg-name="Peacock Live: Premier League" ,Peacock Live: Premier League
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/eb8b0bad-ae69-40d4-b140-53092932222a.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-name="Peacock Live: REELZ" ,Peacock Live: REELZ
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/0953b97f-4359-4187-99bd-1ce3784f54a6.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="SkyNews.peacocktv" tvg-name="Peacock Live: Sky News" ,Peacock Live: Sky News
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/8364d09c-9ea0-4188-8834-5e074f825ad1.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="WWENetwork.peacocktv" tvg-name="Peacock Live: WWE Network" ,Peacock Live: WWE Network
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/5fcd22b3-1213-4580-8ca0-e6a5e5394c56.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="Peacock1.peacock" tvg-name="Peacock 1" ,Peacock 1
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/10c09b64-7ff0-4d82-8f80-96d14f786010.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="Peacock2.peacock" tvg-name="Peacock 2" ,Peacock 2
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/0cf1c1af-7794-4266-8555-43f7f08c9039.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK3.arn" tvg-name="Peacock 3" ,Peacock 3
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/ac5cee55-069e-4f9c-a2f8-16b4cdfb886f.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK4.arn" tvg-name="Peacock 4" ,Peacock 4
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/b2b25519-13e9-454c-8d7a-d5d1f48d0d6d.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK5.arn" tvg-name="Peacock 5" ,Peacock 5
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/c3e23e05-4458-4a41-aa60-6472ad83a67b.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK6.arn" tvg-name="Peacock 6" ,Peacock 6
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/862d249b-e825-40a2-98f3-973550c32f08.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK7.arn" tvg-name="Peacock 7" ,Peacock 7
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/7b251d36-bd2e-40bc-bdbc-20ab93b70157.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK8.arn" tvg-name="Peacock 8" ,Peacock 8
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/409d4d29-02f6-4deb-8f46-48f5959454f4.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK9.arn" tvg-name="Peacock 9" ,Peacock 9
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/d35f434f-01ba-4882-936b-794d5276f1be.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK10.arn" tvg-name="Peacock 10" ,Peacock 10
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/e2fa46c6-6d10-4a6c-b31b-e97b58729cf2.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK11.arn" tvg-name="Peacock 11" ,Peacock 11
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/558835b1-7929-4446-9f55-2288bc29cc67.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK12.arn" tvg-name="Peacock 12" ,Peacock 12
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/1ab51b3a-b0d0-4bf8-885e-1d4a7e1a8640.m3u8
+#EXTINF:-1 group-title="NBC PEACOCK" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/misc/media/peacock.png" tvg-id="PEACOCK13.arn" tvg-name="Peacock 13" ,Peacock 13
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/803aaaa8-aef9-4821-9cbe-38212f1da511.m3u8
+
+######### ELEVEN SPORTS #########
+
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 3 HD
+http://opplextv.cyou:8080/0000000000/0000000000/233087
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 2 HD
+http://opplextv.cyou:8080/0000000000/0000000000/233086
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" tvg-id="SportyStuff.uk" , Eleven Sports 1 HD
+http://opplextv.cyou:8080/0000000000/0000000000/233085
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 4 FHD
+http://opplextv.cyou:8080/0000000000/0000000000/233071
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 3 FHD
+http://opplextv.cyou:8080/0000000000/0000000000/233070
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 2 FHD
+http://opplextv.cyou:8080/0000000000/0000000000/233069
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 1 FHD
+http://opplextv.cyou:8080/0000000000/0000000000/233068
