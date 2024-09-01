@@ -2599,3 +2599,8 @@ http://opplextv.cyou:8080/0000000000/0000000000/233070
 http://opplextv.cyou:8080/0000000000/0000000000/233069
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 1 FHD
 http://opplextv.cyou:8080/0000000000/0000000000/233068
+
+######### KIDS #########
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" , cartoon network
+http://meta923yter3-9u.11121367.xyz:8080/hoHPTAJZoq/gJZgpHURfn/177483?play_token=WFwYzSAW4z
