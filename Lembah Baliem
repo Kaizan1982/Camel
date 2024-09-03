@@ -485,7 +485,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg?rlkey=pmh7htmzc1mjffe43fgspt2rt&dl=0",Sportstars 2 HD
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg?rlkey=pmh7htmzc1mjffe43fgspt2rt&dl=0",Sportstars 2 HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
  
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/spotv.png",SPOTV HD
