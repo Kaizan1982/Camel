@@ -2600,3 +2600,221 @@ http://opplextv.cyou:8080/0000000000/0000000000/233069
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 1 FHD
 http://opplextv.cyou:8080/0000000000/0000000000/233068
 
+######### SPORTS RUSSIA #########
+
+#EXTINF:-1 group-title="RUSSIA" ,Golf TV HD
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6393/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,МАТЧ ПРЕМЬЕР
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/531/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч +2
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6012/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч +4
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6023/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч +8
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6052/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Band Sports BR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6158/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 1 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6123/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 3 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6124/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 4 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6125/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 5 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6126/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 6 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6127/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 7 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6128/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 8 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6129/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 9 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6130/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 10 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6131/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 11 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6132/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,beIN Sports 12 HD QA
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6133/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,CANAL+ SPORT 2 PL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6099/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sky Sport Bundesliga 9 DE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6097/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sky Sport Austria 2 DE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6113/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sky Racing AU
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6122/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Motorvision TV DE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6112/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Golf TV FR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6066/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Fox Sports News AU
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6119/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,FOX Sports 2 HD NL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2553/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sky Sport News HD DE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2477/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sky Sport 1 HD DE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2478/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sky Sport 2 HD DE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2479/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sky Sport Bundesliga 1 HD DE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2480/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,AFN Sports 2 US
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2487/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sky Sport Austria 1 HD DE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2492/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Bein Sports 1 HD FR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2499/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Bein Sports 2 HD FR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2500/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Canal+ Sport HD FR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2502/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sport 1 HD DE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2503/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,BT Sport 1 UK
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2505/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,BT Sport 2 UK
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2506/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Star Sports 2 IN
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2507/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Star Sports 1 IN
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2508/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,YAS Sports AE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2511/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,ONTime Sports EG
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2512/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,TIME SPORTS EG
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2513/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,NOVA Sport BG
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2514/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,C More Sport HD SE
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2515/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,CANAL+ Sport 2 HD PL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2516/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Eleven Sports 2 HD PL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6082/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Eleven Sports 1 HD PL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6083/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,nSport+ PL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2519/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,TVP Sport HD PL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2520/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sportklub HD PL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2521/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,DIGI Sport 2 HD RO
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2522/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,DIGI Sport 1 HD RO
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2523/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,DIGI Sport 3 HD RO
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2524/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,SPORT TV 1 HD PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2525/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,SPORT TV 2 HD PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2526/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,SPORT TV 3 HD PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2527/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,SPORT TV 4 PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2528/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,SPORT TV 5 PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2529/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,SPORT TV + PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2530/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Eleven Sports 1 HD PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2531/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Eleven Sports 2 HD PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2532/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Eleven Sports 3 PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2533/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Eleven Sports 4 PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2534/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Eleven Sports 5 PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2535/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Eleven Sports 6 PT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2536/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,TV 2 SPORT HD DK
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2537/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,DIGI Sport 4 HD RO
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2538/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Auto Motor Sport RO
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2539/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,TV 2 Sport 2 HD NO
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2540/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,C More Sport 1 HD FI
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2541/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,TV3 Sport HD SK
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6080/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,BEIN SPORTS HD ES
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2543/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Infosport+ HD FR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2544/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,RMC Sport 1 HD FR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2545/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,RMC Sport 2 HD FR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2546/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,RMC Sport 3 HD FR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2547/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sport 1 LT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2548/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sport 1 HD LT
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2549/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Arena Sport 1 SK
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2550/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,ČT sport HD CZ
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2551/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,FOX Sports 1 HD NL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2552/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Bein Sports 3 HD FR
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2501/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,FOX Sports 4 HD NL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2554/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Nova Sport 1 HD CZ
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2555/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Nova Sport 2 HD CZ
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2556/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sport 2 HD CZ
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2557/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Sport 5 CZ
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2558/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Ziggo Sport Golf NL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2559/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Ziggo Sport Select HD NL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2560/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Ziggo Sport Voetbal NL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2561/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Телеканал Футбол
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/5050/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,МАТЧ! СТРАНА
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/107/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч! Планета
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/123/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч! Футбол 1
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/124/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,KHL
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/519/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч! Футбол 3
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/522/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч! Арена
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/528/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч! Игра
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/529/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч! Футбол 2
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/530/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч ТВ
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/535/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Eurosport 1
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/141/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Extreme Sports
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/144/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Матч! Боец
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/150/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Viasat Sport
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/160/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,M-1 Global TV
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/843/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Бокс ТВ
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/870/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,Моторспорт ТВ
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2145/index.m3u8
+#EXTINF:-1 group-title="RUSSIA" ,СТАРТ
+http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2154/index.m3u8
