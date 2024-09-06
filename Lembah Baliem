@@ -52,7 +52,16 @@ http://opplextv.cyou:8080/0000000000/0000000000/381733
 
 ######### NASIONAL #########
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/antv.png" group-title=" NASIONAL ",ANTV
+#EXTINF:-1 tvg-id="GTV.id"  tvg-logo="https://guki.my.id/logo/lokal/gtv.png" group-title="NASIONAL",GTV ᴴᴰ
+https://1s1.rctiplus.id/gtv2023.m3u8
+
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/mnc.png" group-title="NASIONAL",MNC TV ᴴᴰ
+https://1s1.rctiplus.id/mnctv2023.m3u8
+
+#EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://guki.my.id/logo/lokal/inews.png" group-title="NASIONAL", iNews ᴴᴰ
+https://1s1.rctiplus.id/inews2023.m3u8
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/antv.png" group-title=" LOKAL ",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
@@ -62,13 +71,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 group-title=" NASIONAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-name="ANTV" , ANTV 1
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 2
+#EXTINF:-1 group-title=" LOKAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 2
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz&referrer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title=" NASIONAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 3
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 4
+#EXTINF:-1 group-title=" LOKAL" tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 4
 https://flv.intechmedia.net/live/ch108.m3u8|user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 
 #EXTINF:-1 group-title=" NASIONAL " tvg-id="IndosiarHD.id" tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg", INDOSIAR 4
@@ -84,55 +93,73 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-title=" NASIONAL ", INDOSIAR 2
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-title=" LOKAL ", INDOSIAR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-title=" NASIONAL ",INDOSIAR HD 3
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-title=" LOKAL ",INDOSIAR HD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/voybqNT3BRKqPDRYS-CkE1Yia5A9Lgya1PfgiPrVWk8/m3u8
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/mnc.png" group-title=" NASIONAL ", MNC TV
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/mnc.png" group-title="LOKAL", MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="rcti.id" tvg-name="RCTI ID" group-title=" NASIONAL " tvg-logo="http://guki.my.id/logo/lokal/rcti.png", RCTI 1
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://guki.my.id/logo/lokal/mnc.png", MNCTV 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-id="rcti.id" tvg-name="RCTI ID" group-title=" LOKAL " tvg-logo="http://guki.my.id/logo/lokal/rcti.png", RCTI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" , RCTI 2
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" , RCTI 2
 http://iptvtree.net:8080/F18819/6eb39c7d/157591
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" , RCTI 3
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI+ 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" , RCTI 3
 http://xtv.ooo:8080/321166661/52816191/351023
 
-#EXTINF:-1 group-title=" NASIONAL" , tvg-logo="http://guki.my.id/logo/lokal/rcti.png",  RCTI 4
+#EXTINF:-1 group-title=" NASIONAL" , tvg-logo="http://guki.my.id/logo/lokal/rcti.png",  RCTI A
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/sctv.jpg" group-title=" NASIONAL ", SCTV 1
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" tvg-id="null" tvg-name="RCTI",RCTI+ ᴴᴰ
+https://1s1.rctiplus.id/rcti2023.m3u8|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3&referrer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/sctv.jpg" group-title="LOKAL", SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV 2
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV 3
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV 3
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-id="SCTV - [Channel 89].id" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV
+#EXTINF:-1 group-title="LOKAL" tvg-id="SCTV - [Channel 89].id" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV
 http://iptvtree.net:8080/F18819/6eb39c7d/162141
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/gtv.png" group-title=" NASIONAL ", GTV HD
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/gtv.png", GTV+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/gtv.png" group-title="LOKAL", GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
