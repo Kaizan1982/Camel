@@ -109,7 +109,7 @@ https://play.gachor99.my.id:443/play/voybqNT3BRKqPDRYS-CkE1Yia5A9Lgya1PfgiPrVWk8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://guki.my.id/logo/lokal/mnc.png", MNCTV 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/mnc.png", MNCTV 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
@@ -124,7 +124,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" , RCTI 2
 http://iptvtree.net:8080/F18819/6eb39c7d/157591
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png", RCTI+ 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -166,7 +166,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/transtv.png" group-title=" NASIONAL", TRANS TV 1
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/transtv.png" group-title="NASIONAL", TRANS TV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
@@ -188,13 +188,13 @@ https://mantul.biz.id:443/IPTV1/123456/239.ts
 #EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/trans7.png" group-title="NASIONAL",Trans 7 (Indihome TV)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="http://guki.my.id/logo/lokal/net.png" , NET TV 1
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://guki.my.id/logo/lokal/net.png" , NET TV 1
 http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=NET.|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=https://www.dens.tv/
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/net.png" ,NET TV 2
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/net.png" ,NET TV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/net.png" , NET TV 3
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/net.png" , NET TV 3
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/kompas.png" group-title=" NASIONAL ", KOMPAS TV 1
@@ -204,22 +204,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8|user-agent=Mozilla/5.0 (W
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/kompas.png" tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" , KOMPAS TV 2
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/kompas.png" tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" , KOMPAS TV 2
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/kompas.png" tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" , KOMPAS TV 3
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/kompas.png" tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" , KOMPAS TV 3
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/inews.png", I-NEWS 1
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/inews.png", I-NEWS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/inews.png" , I-NEWS 2
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/inews.png" , I-NEWS 2
 http://iptvtree.net:8080/F18819/6eb39c7d/157579
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/metro.png", METRO TV 1 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/metro.png", METRO TV 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -229,10 +229,10 @@ http://iptvtree.net:8080/F18819/6eb39c7d/157579
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/metro.png" , METRO TV 2
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/metro.png" , METRO TV 2
 https://flv.intechmedia.net/live/ch110.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="http://guki.my.id/logo/lokal/tvone.png", TVONE 1 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://guki.my.id/logo/lokal/tvone.png", TVONE 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -241,26 +241,26 @@ https://flv.intechmedia.net/live/ch110.m3u8|user-agent=YouTV/1.5.6-prod.release 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-id="tvOne - [Channel 97].id" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" , TV ONE 2
+#EXTINF:-1 group-title="NASIONAL" tvg-id="tvOne - [Channel 97].id" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" , TV ONE 2
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" , TVONE 3
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" , TVONE 3
 http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" , TVONE 4
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/tvone.png" , TVONE 4
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/rtv.jpg" group-title=" NASIONAL ", RTV 1
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/rtv.jpg" group-title="NASIONAL ", RTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" tvg-id="22" , RTV 2
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rtv.jpg" tvg-id="22" , RTV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" , MOJI 1
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" , MOJI 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL", MOJI 2
@@ -269,10 +269,10 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1803
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL", MOJI 3
 https://jihulab.com/iptv2571913/inal-iptv/nasio-inal/-/raw/main/mojiTV.m3u8?ref_type=heads
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" , CNN ID 1
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" , CNN ID 1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" , CNN ID 2
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cnnindonesia.png?raw=true" , CNN ID 2
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 ######### NASIONAL X #########
