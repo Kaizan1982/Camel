@@ -99,10 +99,10 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" tvg-id="null" tvg-name="RCTI",RCTI+ ᴴᴰ
 https://1s1.rctiplus.id/rcti2023.m3u8|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3&referrer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV 2
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
-#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV_Gen
+#EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/sctv.jpg" , SCTV 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/gtv.png", GTV+
@@ -120,10 +120,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/transtv.png" group-title="NASIONAL",TRANS TV 2
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/transtv.png" group-title="NASIONAL",TransTV (Indihome TV)
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/transtv.png" group-title="NASIONAL",TRANS TV 3
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/trans7.png" group-title="NASIONAL",Trans 7 (Indihome TV)
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/trans7.png" group-title="NASIONAL",TRANS 71
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="http://guki.my.id/logo/lokal/net.png" , NET TV 1
@@ -719,6 +719,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 ######### MOVIES #########
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="boohd.my" tvg-logo="https://cdn.icon-icons.com/icons2/2148/PNG/512/boo_icon_132544.png",Boo 
+http://ktpremium.xyz:2095//live/yv2268/22681081/26011.ts
+
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/mycine.png" group-title="MOVIES", MY CINEMA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -742,6 +745,20 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="Citra Bioskop" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggPLxOqdWS8YNf9-s8volil6waPeJwDyn50nHcf8X_pa-lKEG13SwTzhMQE65vKvEvKfNXwojdHhKUMGpum4lmr0uGCcEhA8vXUux0ACDiPJuygEIg6A7SD9WtxFjuGubgzHyrv_4sQBfo/s1600/citra-bioskop-channel-tv-logo.png" group-title="MOVIES",Citra Bioskop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://beetv.my.id/key/cbioskop.json
+https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:-1 tvg-id="My Cinema - [Channel 16].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="MOVIES",My Cinema FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.42 Mobile Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Cinema_HD
+
+#EXTINF:-1 tvg-id="My Cinema Asia - [Channel 17].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="MOVIES",My Cinema Asia FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.42 Mobile Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Cinema_Asia
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/cinemachi.png" group-title="MOVIES", CINEMACHI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -785,10 +802,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/galaxy.png" group-title="MOVIES", GALAXY
+#EXTINF:-1 group-logo="http://guki.my.id/logo/movie/galaxy.png",
+#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDNnD6lLT0xCQNc9EG_Yq1vBzAoSJHSo04iA&amp;usqp=CAU" group-title="MOVIES",Galaxy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/imc.png" group-title="MOVIES", IMC
@@ -796,6 +814,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="Flik" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1585822039-.jpg" group-title="MOVIES",Flik
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/thrill.jpg" group-title="MOVIES", THRILL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
