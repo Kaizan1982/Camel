@@ -59,19 +59,19 @@ http://opplextv.cyou:8080/0000000000/0000000000/381733
 #EXTINF:-1 tvg-id="GTV.id"  tvg-logo="https://guki.my.id/logo/lokal/gtv.png" group-title="NASIONAL",GTV ᴴᴰ
 https://1s1.rctiplus.id/gtv2023.m3u8
 
-#EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/mnc.png" group-title="NASIONAL",MNC TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/mnc.png" group-title="NASIONAL",MNCTV ᴴᴰ
 https://1s1.rctiplus.id/mnctv2023.m3u8
 
-#EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://guki.my.id/logo/lokal/inews.png" group-title="NASIONAL", iNews ᴴᴰ
+#EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://guki.my.id/logo/lokal/inews.png" group-title="NASIONAL", I-NEWS ᴴᴰ
 https://1s1.rctiplus.id/inews2023.m3u8
 
 #EXTINF:-1 group-title=" NASIONAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-name="ANTV" , ANTV 1
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title=" NASIONAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 3
+#EXTINF:-1 group-title=" NASIONAL " tvg-logo="https://guki.my.id/logo/lokal/antv.png" tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" , ANTV 2
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
 
-#EXTINF:-1 group-title=" NASIONAL " tvg-id="IndosiarHD.id" tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg", INDOSIAR 4
+#EXTINF:-1 group-title=" NASIONAL " tvg-id="IndosiarHD.id" tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg", INDOSIAR 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
@@ -88,12 +88,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png", RCTI+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png", RCTI+ 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 group-title=" NASIONAL" , tvg-logo="http://guki.my.id/logo/lokal/rcti.png",  RCTI A
+#EXTINF:-1 group-title=" NASIONAL" , tvg-logo="http://guki.my.id/logo/lokal/rcti.png",  RCTI+ 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 
 #EXTINF:-1 group-title=" NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/rcti.png" tvg-id="null" tvg-name="RCTI",RCTI+ ᴴᴰ
