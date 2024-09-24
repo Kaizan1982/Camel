@@ -502,13 +502,13 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/sony4.png" ,Sony Ten 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp1.png" tvg-id=AstroSupersport1.my" ,Super Sport 1
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp1.png" tvg-id=AstroSupersport1.my" ,AstroSuper Sport 1
 http://vo01.mohdtv.com:8880/voby5324/62119828/1722
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp2.png" tvg-id="AstroSuperSport2.my" ,Super Sport 2
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp2.png" tvg-id="AstroSuperSport2.my" ,AstroSuper Sport 2
 http://vo01.mohdtv.com:8880/voby5324/62119828/1721
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp3.png" tvg-id="AstroSuperSport3.my" ,Super Sport 3
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://guki.my.id/logo/sports/assp3.png" tvg-id="AstroSuperSport3.my" ,AstroSuper Sport 3
 http://vo01.mohdtv.com:8880/voby5324/62119828/1720
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo"https://guki.my.id/logo/sports/assp4.png" tvg-id="AstroSuperSport4.my" ,Super Sport 4
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo"https://guki.my.id/logo/sports/assp4.png" tvg-id="AstroSuperSport4.my" ,AstroSuper Sport 4
 http://vo01.mohdtv.com:8880/voby5324/62119828/1719
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" ,ASTRO ASSP HD
