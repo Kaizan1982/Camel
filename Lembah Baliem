@@ -720,7 +720,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 ######### MOVIES #########
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="boohd.my" tvg-logo="https://cdn.icon-icons.com/icons2/2148/PNG/512/boo_icon_132544.png",Boo 
-http://ktpremium.xyz:2095//live/yv2268/22681081/26011.ts
+http://ktpremium.xyz:2095//live/yv2268/22681081/26011
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/mycine.png" group-title="MOVIES", MY CINEMA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
