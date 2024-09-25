@@ -25,30 +25,15 @@
 
 #EXTMU
 #EXTM3U billed-msg="BY FLYNGDUTCHMAN * NOT FOR SALE * THIS PLAYLIST IS FREE"
-######### LIVE EVENT PL #########
-
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL10: NOW SPORTS 10
-http://opplextv.cyou:8080/0000000000/0000000000/381743
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL09: NOW SPORTS 09
-http://opplextv.cyou:8080/0000000000/0000000000/381742
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL08: NOW SPORTS 08
-http://opplextv.cyou:8080/0000000000/0000000000/381741
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL07: NOW SPORTS 07
-http://opplextv.cyou:8080/0000000000/0000000000/381740
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL06: NOW SPORTS 06
-http://opplextv.cyou:8080/0000000000/0000000000/381739
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL05: NOW SPORTS 05
-http://opplextv.cyou:8080/0000000000/0000000000/381738
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL04: NOW SPORTS 04
-http://opplextv.cyou:8080/0000000000/0000000000/381737
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL03: NOW SPORTS 03
-http://opplextv.cyou:8080/0000000000/0000000000/381736
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL02: NOW SPORTS 02
-http://opplextv.cyou:8080/0000000000/0000000000/381735
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL01: NOW SPORTS 01
-http://opplextv.cyou:8080/0000000000/0000000000/381734
-#EXTINF:-1 group-title="Premier League (Live Events)" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" ,EPL Goal Rush: Multi View
-http://opplextv.cyou:8080/0000000000/0000000000/381733
+######### SPORTSNET #########
+#EXTINF:-1 group-title="SportsNet" tvg-id="sportsnet.360.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/500px-Logo_Sportsnet_2011.svg.png" ,Sportsnet -360
+http://vo01.mohdtv.com:8880/voby5324/62119828/3010
+#EXTINF:-1 group-title="SportsNet" tvg-id="21.junior.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/500px-Logo_Sportsnet_2011.svg.png" ,Sportsnet East HD
+http://vo01.mohdtv.com:8880/voby5324/62119828/3009
+#EXTINF:-1 group-title="SportsNet" tvg-id="sportsnet.one.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/500px-Logo_Sportsnet_2011.svg.png" ,Sportsnet-ONE
+http://vo01.mohdtv.com:8880/voby5324/62119828/3008
+#EXTINF:-1 group-title="SportsNet" tvg-id="21.junior.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/500px-Logo_Sportsnet_2011.svg.png" ,Sportsnet West HD
+http://vo01.mohdtv.com:8880/voby5324/62119828/3007
 
 ######### LOKAL #########
 
@@ -1708,193 +1693,69 @@ http://j.jserv.me/live/DemMavs/x6yLQFx1L5/dcca1135-e3f9-47a2-8219-a45dcdf62646.m
 #EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/hong-kong/now-sports-hk.png" , NowHK SPOTV 2
 http://j.jserv.me/live/DemMavs/x6yLQFx1L5/b1a18b2c-50f7-47c1-a28a-3845cbaed6b3.m3u
 
-######### SSC SPORTS #########
+######### META SPORTS #########
 
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_news_hd.png" ,SSC NEWS HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548141
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_1_hd.png" ,SSC 1 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548142
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_2_hd.png" ,SSC 2 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548143
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_3_hd.png" ,SSC 3 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548144
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_4_hd.png" ,SSC 4 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548145
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_5_hd.png" ,SSC 5 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548146
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_1_hd.png" ,SSC EXTRA 1 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548147
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_2_hd.png" ,SSC EXTRA 2 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548148
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_3_hd.png" ,SSC EXTRA 3 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548149
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_1_hd.png" ,SSC 1 4K
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548150
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_2_hd.png" ,SSC 2 4K
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548151
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_3_hd.png" ,SSC 3 4K
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548152
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_4_hd.png" ,SSC 4 4K
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548153
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_5_hd.png" ,SSC 5 4K
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548154
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_1_hd.png" ,SSC EXTRA 1 4K
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548155
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_2_hd.png" ,SSC EXTRA 2 4K
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548156
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_3_hd.png" ,SSC EXTRA 3 4K
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548157
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_1_hd.png" ,SSC 1 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548158
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_2_hd.png" ,SSC 2 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548159
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_3_hd.png" ,SSC 3 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548160
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_4_hd.png" ,SSC 4 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548161
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_1_hd.png" ,SSC EXTRA 1 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548162
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_2_hd.png" ,SSC EXTRA 2 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548163
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_3_hd.png" ,SSC EXTRA 3 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/548164
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" tvg-id="AstroArena" ,Astro Arena HD
+http://metatvpro.xyz:25461/K4011/5244/142
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" tvg-id="AstroArena2" ,arena 2
+http://metatvpro.xyz:25461/K4011/5244/143
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" tvg-id="AstroArenaBola" , Arena Bola 1
+http://metatvpro.xyz:25461/K4011/5244/13779
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" tvg-id="AstroArenaBola2" ,Arena Bola 2
+http://metatvpro.xyz:25461/K4011/5244/13780
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" tvg-id="AstroSupersport" ,Astro SuperSport HD
+http://metatvpro.xyz:25461/K4011/5244/144
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" tvg-id="AstroSupersport2" ,Astro SuperSport 2 HD
+http://metatvpro.xyz:25461/K4011/5244/145
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" tvg-id="AstroSupersport3" ,Astro SuperSport 3 HD
+http://metatvpro.xyz:25461/K4011/5244/146
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" tvg-id="AstroSupersport4" ,Astro SuperSport 4 HD
+http://metatvpro.xyz:25461/K4011/5244/147
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" tvg-id="W-Sport" ,W-Sports
+http://metatvpro.xyz:25461/K4011/5244/148
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" tvg-id="SPOTV" ,SPOTV
+http://metatvpro.xyz:25461/K4011/5244/149
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" tvg-id="SPOTV2" ,Spotv 2
+http://metatvpro.xyz:25461/K4011/5244/14229
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" tvg-id="beINSports" ,beIN Sports HD
+http://metatvpro.xyz:25461/K4011/5244/151
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa.png" tvg-id="beINSports2" ,beIN Sports 2
+http://metatvpro.xyz:25461/K4011/5244/13766
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" tvg-id="beINSports3" ,beIN Sports 3
+http://metatvpro.xyz:25461/K4011/5244/152
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" tvg-id="Eurosport" ,Eurosport HD
+http://metatvpro.xyz:25461/K4011/5244/153
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" tvg-id="WWENetwork" ,WWE Network HD
+http://metatvpro.xyz:25461/K4011/5244/154
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" tvg-id="GolfChannel" ,Golf Channel HD
+http://metatvpro.xyz:25461/K4011/5244/155
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" tvg-id="AstroCricket" ,Astro Cricket HD
+http://metatvpro.xyz:25461/K4011/5244/157
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" tvg-id="RTMK04" ,Sukan RTM
+http://metatvpro.xyz:25461/K4011/5244/158
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" ,Tennis Channel
+http://metatvpro.xyz:25461/K4011/5244/172
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten1hd.png" tvg-id="14265" ,SONY Ten 1
+http://metatvpro.xyz:25461/K4011/5244/177
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten2.png" tvg-id="14516" ,SONY Ten 2
+http://metatvpro.xyz:25461/K4011/5244/178
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten3.png" tvg-id="14350" ,SONY Ten 3
+http://metatvpro.xyz:25461/K4011/5244/179
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fight-network.png" ,Fight Network
+http://metatvpro.xyz:25461/K4011/5244/181
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba-tv-canada-us-ca.png" ,NBA TV Canada
+http://metatvpro.xyz:25461/K4011/5244/183
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-e.png" ,Now Sports Prime 630
+http://metatvpro.xyz:25461/K4011/5244/188
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" ,Redbull TV
+http://metatvpro.xyz:25461/K4011/5244/189
+#EXTINF:-1 group-title="Meta Sports" tvg-logo="https://zasstv.com/wp-content/uploads/2020/04/Dubai-Sports-2.jpg" ,Dubai Sport 2 HD
+http://metatvpro.xyz:25461/K4011/5244/191
+#EXTINF:-1 group-title="Meta Sports" ,Dubai Sport 3 HD
+http://metatvpro.xyz:25461/K4011/5244/192
 
 ######### BEIN SPORTS #########
 
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/news.png" tvg-id="beinsportsnews.qa" ,BEIN SPORTS NEWS
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/290371
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsglobal.qa" ,BEIN SPORTS HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/6727
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 HD 
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60954
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-hd.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 HD B2
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/394073
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 HD 
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60955
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-hd.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 HD B2
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/394074
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-hd.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 HD 
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60956
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-hd.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 HD B2
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/394075
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-hd.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/5231
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-hd.png" ,BEIN SPORTS 4 HD B2
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/576496
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-hd.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/5229
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-hd.png" ,BEIN SPORTS 5 HD B2
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/576497
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-hd.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/5233
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-hd.png" ,BEIN SPORTS 6 HD B2
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/576498
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-hd.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/5235
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-hd.png" ,BEIN SPORTS 7 HD B2
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/576499
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-hd.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/5237
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-hd.png" ,BEIN SPORTS 8 HD B2
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/576500
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-hd.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/5239
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-hd.png" ,BEIN SPORTS 9 HD B2
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/576501
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-HD.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/5241
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra1-HD.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/135165
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra2-HD.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/135166
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra3-HD.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/5240
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsafc1.qa" ,BEIN SPORTS AFC 1 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435960
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsafc2.qa" ,BEIN SPORTS AFC 2 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435961
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsafc3.qa" ,BEIN SPORTS AFC 3 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435962
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" ,BEIN SPORTS AFC 4 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435963
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" ,BEIN SPORTS AFC 5 HD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435964
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60958
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/28751
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60959
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/36301
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/36302
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/36300
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/36299
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/36298
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/36297
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-fhd.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/36295
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-1-FHD.png" tvg-id="beinsports1fr.qa" ,BEIN SPORTS 1 FRENCH FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/63499
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-2-FHD.png" tvg-id="beinsports2fr.qa" ,BEIN SPORTS 2 FRENCH FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/63500
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra1-FHD.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/135167
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra2-FHD.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/135168
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra3-FHD.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/36296
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsafc.qa" ,BEIN SPORTS AFC FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/176994
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsafc1.qa" ,BEIN SPORTS AFC 1 FHD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/176995
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-1-sd.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60960
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-sd.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 SD 
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60961
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-3-sd.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 SD 
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60962
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-sd.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60967
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-sd.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60970
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-sd.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60969
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-sd.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 7 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60963
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-sd.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60964
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-sd.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60965
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-SD.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/63503
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/fr-1-SD.png" tvg-id="beinsports1fr.qa" ,BEIN SPORTS 1 FRENCH SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/117945
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/fr-2-SD.png" tvg-id="beinsports2fr.qa" ,BEIN SPORTS 2 FRENCH SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/117946
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra1-SD.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/117948
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra2-SD.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/117949
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra3-SD.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/60966
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsafc.qa" ,BEIN SPORTS AFC SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435965
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsafc1.qa" ,BEIN SPORTS AFC 1 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435966
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsafc2.qa" ,BEIN SPORTS AFC 2 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435955
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" tvg-id="beinsportsafc3.qa" ,BEIN SPORTS AFC 3 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435956
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" ,BEIN SPORTS AFC 4 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435957
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" ,BEIN SPORTS AFC 5 SD
-http://www.sansat.net:88/ManjolaKolaj/LRH8BMQTOBEON92&output=ts/435958
 
 ######### LIGA MAHAL #########
 
@@ -1909,22 +1770,7 @@ http://108.181.132.217:8070/AmirBilali/76448035/162138
 
 ######### ELEVEN SPORTS #########
 
-#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 3 HD
-http://opplextv.cyou:8080/0000000000/0000000000/233087
-#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 2 HD
-http://opplextv.cyou:8080/0000000000/0000000000/233086
-#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" tvg-id="SportyStuff.uk" , Eleven Sports 1 HD
-http://opplextv.cyou:8080/0000000000/0000000000/233085
-#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 4 FHD
-http://opplextv.cyou:8080/0000000000/0000000000/233071
-#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 3 FHD
-http://opplextv.cyou:8080/0000000000/0000000000/233070
-#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 2 FHD
-http://opplextv.cyou:8080/0000000000/0000000000/233069
-#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" , Eleven Sports 1 FHD
-http://opplextv.cyou:8080/0000000000/0000000000/233068
-
-######### SPORTS RUSSIA #########
+######### RUSSIA CHANNEL #########
 
 #EXTINF:-1 group-title="RUSSIA" ,Golf TV HD
 http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6393/index.m3u8
