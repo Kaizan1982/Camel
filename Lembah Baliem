@@ -348,6 +348,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
 ============================================================================================================ CUBMU ============================================================================================================
+
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonnetwork.jpg", Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -425,7 +426,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6858afb4c71018b03bd40c
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858afb4c71018b03be407b1527/manifest.mpd
 
-######### SPORT PREMIUM #########
+                    ######### SPORT PREMIUM #########
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -650,7 +651,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487785&extension=ts
 #EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" group-title="SPORTS PREMIUM" tvg-logo="",ESPN Deportes
 http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=219091&extension=ts
 
-######### DAZN #########
+                     ######### DAZN #########
 
 #EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -717,9 +718,9 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-######### FOX SPORTS #########
+                  ######### FOX SPORTS #########
 
-EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="FOX SPORTS",FOX SPORTS 1
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="FOX SPORTS",FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="FOX SPORTS",FOX SPORTS 1
@@ -735,7 +736,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487775&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487641&extension=ts
 
 
-######### MOVIES #########
+                  ######### MOVIES #########
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="boohd.my" tvg-logo="https://cdn.icon-icons.com/icons2/2148/PNG/512/boo_icon_132544.png",Boo 
 http://ktpremium.xyz:2095//live/yv2268/22681081/26011
