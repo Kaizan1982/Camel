@@ -25,7 +25,13 @@ ini<!DOCTYPE html>
 
 #EXTMU
 #EXTM3U billed-msg="BY FLYNGDUTCHMAN * NOT FOR SALE * THIS PLAYLIST IS FREE"
-######### SPORTSNET #########
+
+
+
+
+
+                   ######### SPORTSNET #########
+
 #EXTINF:-1 group-title="SportsNet" tvg-id="sportsnet.360.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/500px-Logo_Sportsnet_2011.svg.png" ,Sportsnet -360
 http://vo01.mohdtv.com:8880/voby5324/62119828/3010
 #EXTINF:-1 group-title="SportsNet" tvg-id="21.junior.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/500px-Logo_Sportsnet_2011.svg.png" ,Sportsnet East HD
@@ -35,11 +41,39 @@ http://vo01.mohdtv.com:8880/voby5324/62119828/3008
 #EXTINF:-1 group-title="SportsNet" tvg-id="21.junior.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/500px-Logo_Sportsnet_2011.svg.png" ,Sportsnet West HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/3007
 
-######### LOKAL #########
+                  ######### TYCSPORTS #########
 
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 
-######### NASIONAL #########
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+
+#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+
+                  ######### NASIONAL #########
 
 #EXTINF:-1 tvg-id="GTV.id"  tvg-logo="https://guki.my.id/logo/lokal/gtv.png" group-title="NASIONAL" , GTV ᴴᴰ
 https://1s1.rctiplus.id/gtv2023.m3u8
