@@ -619,27 +619,7 @@ http://cdn.topk.live:80/karoline/123456/141540
 
 ######### FOX SPORT #########
 
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://i.imgur.com/xcgfJhC.png" tvg-name="FS1" , Fox Sports 1
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-Kl4t3s5XYGoAxdx4aiQMmW31aUsDAdK6YVzIDt0WwC/ts
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://i.imgur.com/r1wveoe.png" tvg-name="FS 2" , Fox Sports 2
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-Kl4t3s5XYGoAxdx4aiQMlkn9P4uOkS9GY8DftaPsZl/ts
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" ,Fox Sports Racing CA
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3053
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" tvg-name="Fox Sports 501" ,Fox Sports 501
-http://premiumiptvmk.com:8080/F19236/516c41c7/279034
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" tvg-name="Fox Sports 502" ,Fox Sports 502
-http://premiumiptvmk.com:8080/F19236/516c41c7/81784
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" tvg-name="Fox Sports 503" ,Fox Sports 503
-http://premiumiptvmk.com:8080/F19236/516c41c7/280192
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" tvg-name="Fox Sports 504" ,Fox Sports 504
-http://premiumiptvmk.com:8080/F19236/516c41c7/280193
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" tvg-name="Fox Sports 505" ,Fox Sports 505
-http://premiumiptvmk.com:8080/F19236/516c41c7/144772
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" tvg-name="Fox Sports 506" ,Fox Sports 506
-http://premiumiptvmk.com:8080/F19236/516c41c7/279033
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" tvg-name="Fox Sports 507" ,Fox Sports 507
 
-######### OLYMPIC PARIS 2024 #########
 
 ######### SPORT ID #########
 
@@ -688,45 +668,6 @@ http://cdn.topk.live:80/karoline/123456/141549
 http://cdn.topk.live:80/karoline/123456/141550
 #EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z5qRxeBRZ4HEikS/download/SPORTV%204.png" tvg-name="SPORTV 4 HD" ,SPORTV 4 HD
 http://cdn.topk.live:80/karoline/123456/1824502
-
-######### SUPERSPORTS #########
-
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-action-za.png" tvg-name="SuperSport Action" ,SuperSport Action
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/fd362e81-2dfb-4412-9d24-58fb618b59e1.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-blitz-za.png" tvg-name="SuperSport Blitz" ,SuperSport Blitz
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/88108cad-1b98-45d7-bb85-dacbd6987a4f.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-cricket-za.png" tvg-id="SuperSportCricket.za" tvg-name="SuperSport Cricket" ,SuperSport Cricket
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/e9e6b98c-2b6b-41a8-b931-ca4a1143ad7f.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-football-za.png" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" ,SuperSport Football
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/9ce1d70a-40a2-4378-8a30-20b71ed62550.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-golf-za.png" tvg-id="SuperSportGolf.za" tvg-name="SuperSport Golf" ,SuperSport Golf
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/b74037e7-d867-4bc3-b751-ba47dfcc542f.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-grandstand-za.png" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand" ,SuperSport Grandstand
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/8326b405-d582-4776-bfc6-655c63f136d1.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-laliga-za.png" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport La Liga" ,SuperSport La Liga
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/1335d3ba-614c-413d-acae-7c93c21c331b.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-maximo1-za.png" tvg-id="SuperSportMaximo1.za" tvg-name="SuperSport Maximo 1" ,SuperSport Maximo 1
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/6d3e0a2c-14fd-42fc-ab8e-0c1ffd396dd7.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-motorsport-za.png" tvg-id="SuperSportMotorsport.za" tvg-name="SuperSport Motorsport" ,SuperSport Motorsport
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/70db66e6-4133-4145-983a-bed66204f202.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-play-za.png" tvg-id="SupersportPlay.za" tvg-name="SuperSport Play" ,SuperSport Play
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/777eaee0-3e94-4dad-9846-502bbbf04bba.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-premier-league-za.png" tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" ,SuperSport Premier League
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/077f5d64-cb6a-493c-af9d-38b136d7c20a.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-psl-za.png" tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" ,SuperSport PSL
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/60ebe114-8255-4c9a-8bc9-93c0908fbf14.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-rugby-za.png" tvg-id="SuperSportRugby.za" tvg-name="SuperSport Rugby" ,SuperSport Rugby
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/5c0b27f6-daac-4a73-a846-bf1ee2d87655.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-tennis-za.png" tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" ,SuperSport Tennis
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/5bdd018e-6e3a-4581-b22f-4f3705e0395f.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-variety1-za.png" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" ,SuperSport Variety 1
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/bb65a5a2-f47e-4832-87d1-8047a5aae9e0.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-variety2-za.png" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 2" ,SuperSport Variety 2
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/30f4c0ac-73a5-4bef-a230-3e006d399908.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-variety3-za.png" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3" ,SuperSport Variety 3
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/1cacc56c-e286-4258-bf19-bb41fb1f18f1.m3u8
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/south-africa/supersport-variety4-za.png" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4" ,SuperSport Variety 4
-http://j.jserv.me/live/DemMavs/x6yLQFx1L5/bbc3a622-e182-4553-831c-c78971d7b1a0.m3u8
 
 ######### KIDS #########
 
@@ -873,21 +814,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|license_t
 
 ######### SSC ARABIC #########
 
-#EXTINF:-1 group-title="SSC" tvg-logo="https://i.ibb.co/G37Y21X/ssc1.png" tvg-id="SSC 1" , SSC 1
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd|license_type=clearkey&license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#EXTINF:-1 group-title="SSC" tvg-logo="https://i.ibb.co/CWX5CS0/ssc2.png" tvg-id="SSC 2" , SSC 2
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd|license_type=clearkey&license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-#EXTINF:-1 group-title="SSC" tvg-logo="https://i.ibb.co/NFFC4H1/ssc3.png" tvg-id="SSC 3" , SSC 3
-https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd|license_type=clearkey&license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-#EXTINF:-1 group-title="SSC" tvg-logo="https://i.ibb.co/dJgN1sM/ssc4.png" tvg-id="SSC 4" , SSC 4
-https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd|license_type=clearkey&license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-#EXTINF:-1 group-title="SSC" tvg-logo="https://i.ibb.co/0fqW5S8/ssc5.png" tvg-id="SSC 5" , SSC 5
-https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd|license_type=clearkey&license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-#EXTINF:-1 group-title="SSC" tvg-logo="https://i.ibb.co/1dZ4X7W/sscxtr1.png" , SSC EXTRA 1
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd|license_type=clearkey&license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-#EXTINF:-1 group-title="SSC" tvg-logo="https://i.ibb.co/HxxxtLh/sscxtr2.png" tvg-id="SSC EXTRA 2" , SSC EXTRA 2
-https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd|license_type=clearkey&license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
-#EXTINF:-1 group-title="SSC" tvg-logo="https://i.ibb.co/j3XSf9t/sscxtr3.png" tvg-id="SSC EXTRA 3" , SSC EXTRA 3
 
 ######### JAPAN TELEVISION #########
 
