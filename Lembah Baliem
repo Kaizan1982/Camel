@@ -41,39 +41,7 @@ http://vo01.mohdtv.com:8880/voby5324/62119828/3009
 http://vo01.mohdtv.com:8880/voby5324/62119828/3008
 #EXTINF:-1 group-title="SportsNet" tvg-id="21.junior.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/500px-Logo_Sportsnet_2011.svg.png" ,Sportsnet West HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/3007
-
-                   ######### TYCSPORTS #########
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-
-#EXTINF:-1, group-title="TycSports" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.site_image-removebg-preview.png.fba8a9363c3a09d614004453912db055.png",TYC PLAY
-https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-
+                 
                   ######### NASIONAL #########
 
 #EXTINF:-1 tvg-id="GTV.id"  tvg-logo="https://guki.my.id/logo/lokal/gtv.png" group-title="NASIONAL" , GTV ᴴᴰ
@@ -188,7 +156,6 @@ http://iptvtree.net:8080/F18819/6eb39c7d/157579
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
-
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/metro.png" , METROTV 2
 https://flv.intechmedia.net/live/ch110.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -665,7 +632,6 @@ http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28134|license_type=com.widevine
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="SPORTS PREMIUM" , DAZN 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -803,9 +769,6 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-
-
-
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/FIFA_logo_without_slogan.svg.png" ,FIFA+
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 
@@ -865,6 +828,18 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="SPORTS PREMIUM" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
+               ########## TIVIBUSPORTS ##########
+
+#EXTINF:-1 group-title="TiViBU SPOR" tvg-logo="http://viphd.de:8000/icons/tivibuspor.png" ,tivibuspor1
+http://goldtv.cc:8000/direndemirci/fWNBToo4h8/101
+#EXTINF:-1 group-title="TiViBU SPOR" tvg-logo="http://viphd.de:8000/icons/tivibuspor2.png" ,tivibuspor2
+http://goldtv.cc:8000/direndemirci/fWNBToo4h8/121
+#EXTINF:-1 group-title="TiViBU SPOR" tvg-logo="http://viphd.de:8000/icons/tivibuspor3.png" ,tivibuspor3
+http://goldtv.cc:8000/direndemirci/fWNBToo4h8/1084
+#EXTINF:-1 group-title="TiViBU SPOR" tvg-logo="http://viphd.de:8000/icons/tivibuspor4.png" ,tivibuspor 4
+http://goldtv.cc:8000/direndemirci/fWNBToo4h8/14145
+#EXTINF:-1 group-title="TiViBU SPOR" tvg-logo="http://viphd.de:8000/icons/tivibuspor.png" ,tivibuspor
+http://goldtv.cc:8000/direndemirci/fWNBToo4h8/20679
 
                   ######### MOVIES #########
 
