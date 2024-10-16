@@ -1100,6 +1100,90 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+         ########## HIBURAN ##########
+
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mbc1logo_%282%29.png/640px-Mbc1logo_%282%29.png" group-title="Hiburan", MBC 1 
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8 
+
+#EXTINF:-1 tvg-id="MBCMasr1.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="Hiburan", MBC Masr 1 
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8 
+ 
+#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="Hiburan", MBC Masr 2 
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8 
+ 
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png" group-title="Hiburan", MBC 3 
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8 
+ 
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MBC_4_TV_Channel_Logo.png" group-title="Hiburan", MBC 4 
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8 
+ 
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="Hiburan", MBC 5 
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="Hiburan", GMN 25 
+https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ch-7-HD-Logo-crop.png/200px-Ch-7-HD-Logo-crop.png" group-title="Hiburan", Channel 7 TH 
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/240px-Ch_8_2016.svg.png" group-title="Hiburan", Channel 8 TH 
+https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/1200px-PPTV_logo_2019.svg.png" group-title="Hiburan", PPTV 36 
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/One_31_Logo.png" group-title="Hiburan", One 31 
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="Hiburan", Channel 3 TH 
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="Hiburan", ThaiRath 
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Hiburan",Mediacorp Entertainment EN 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Hiburan",Mediacorp Entertainment TM 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Hiburan",Mediacorp Entertainment CN 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sky_Max_2021.svg/2560px-Sky_Max_2021.svg.png" group-title="Hiburan", Sky Max 
+#EXTVLCOPT:http-user-agent=http VLC 3.1.1 
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/ 
+https://thedream.biz.id/live/skymax.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mDK0gJqq/nadoo-korea.jpg" group-title="Hiburan",Nadoo Korean 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8 
+ 
+#EXTINF:-1 group-title="Hiburan" tvg-id="hitsnow.sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW 
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd 
+ 
+#EXTINF:-1 group-title="Hiburan" tvg-id="channel U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/1200px-Mediacorp_Channel_U_2023.svg.png",CHANNEL U SG 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723 
+https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd 
+ 
+#EXTINF:-1 group-title="Hiburan" tvg-id="channel Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mediacorp_Suria_2023.svg",CHANNEL SURIA SG 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00 
+https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
+ 
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/1600px-Mediacorp_Vasantham_2023.svg.png",Vasantham 
+https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.mpd 
+ 
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Okto_2023_stacked.svg/revision/latest/scale-to-width-down/250?cb=20230224092205", Oktolidays 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346 
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd 
+
+#EXTINF:-1 group-title="Hiburan" tvg-id="sbstv.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/640px-Seoul_Broadcasting_System_logo.svg.png",SBSTV 
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8 
+ 
+
 ######### KNOWLEDGE #########
 
 #EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Crime_DE_Logo_2021.svg/2560px-Sky_Crime_DE_Logo_2021.svg.png" , Sky Crime
@@ -1116,6 +1200,11 @@ https://de76880773cb4fe2a42fe18d2547a0f5.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg/revision/latest/scale-to-width-down/185?cb=20180603182756" , Russia Today
 https://cempedak-live-cdn.mncnow.id:443/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Crime_DE_Logo_2021.svg/2560px-Sky_Crime_DE_Logo_2021.svg.png" group-title="KNOWLEDGE", Sky Crime 
+#EXTVLCOPT:http-user-agent=http VLC 3.1.1 
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/ 
+https://thedream.biz.id/live/skycrime.m3u8 
 
 #EXTINF:-1 group-title="KNOWLEDGE " tvg-logo="https://i.imgur.com/CO7N8wc.png" tvg-id="animalplanetsoutheastasia.sg" ,Animal Planet
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
