@@ -701,6 +701,19 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 6 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORTS PREMIUM", DAZN 6 HD
+http://opplex.tv:8080/1525939/1552699/233084
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORTS PREMIUM", DAZN 5 HD
+http://opplex.tv:8080/1525939/1552699/233082
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 4 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORTS PREMIUM", DAZN 4 HD
+http://opplex.tv:8080/1525939/1552699/233080
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 3 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORTS PREMIUM", DAZN 3 HD
+http://opplex.tv:8080/1525939/1552699/233078
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 2 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORTS PREMIUM", DAZN 2 HD
+http://opplex.tv:8080/1525939/1552699/233075
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORTS PREMIUM", DAZN 1 HD
+http://opplex.tv:8080/1525939/1552699/233072
+
               ########### CTV ################
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="CTV",CTV 
